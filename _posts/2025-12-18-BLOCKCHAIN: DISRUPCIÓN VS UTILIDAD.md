@@ -49,11 +49,11 @@ PROLOGO
 El objetivo de este texto es poner en contexto y dar perspectiva a la historia detrás de la disrupción tecnológica que ha supuesto la tecnología blockchain. 
 
 Se trata de un análisis sobre como se ha transicionado desde la filosófica primera POC a desarrollos posteriores con tecnologías que mejoran la misma y dan una utilidad mas cercana a las necesidades del humanas y del mercado.
-
+<br><br/>
+<br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 1 - HISTORIA DE UNA DISRUPCIÓN
 ----------------------------------------------------------------------------------------------------------------------------------------
-
 Aquellos años 80, una de las épocas mas gloriosas para los consumidores tecnológicos.
 
 Llegan los CompactDiscs, los ordenadores personales (Personal Computers), los primeros teléfonos móviles, las cámaras grabadoras de video, el walkman, las primeras pantallas LCD, videoconsolas, sin olvidarnos del notorio inicio de la conectividad global gracias a la implementación del protocolo TCP/IP, que permitía comunicaciones entre distintas redes de dispositivos.
@@ -63,7 +63,7 @@ Toda una explosión de funcionalidades equipadas en aquellos nuevos aparatos, qu
 Algunos dispositivos fracasaron, pero otros muchos fueron utilizados en masa por la gente de aquellos tiempos, permitiéndoles vislumbrar el futuro, gracias a aquella tecnología, mientras disfrutaban de funcionalidades que hasta aquel momento solo se podían fantasear.
 
 Fueron los pioneros y los BetaTesters de algo más grande que se desarrollaría gracias a la experiencia e interacción de los consumidores con las grandes empresas tecnológicas.
-
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -103,6 +103,8 @@ https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf
 
 https://cryptoanarchy.wiki/
 
+<br><br/>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
    MATERIALIZACION DE LA PRUEBA DE CONCEPTO
@@ -117,6 +119,7 @@ Sin preguntar o escuchar las pretensiones de la clase política o de los grandes
 A su vez, esta concepción divina parecía proceder de la unión entre la trinidad compuesta por tecnología, liberalismo económico y privacidad.
 
 Un antes y un después que influiría en el Status quo. Lllegó para poner en jaque al poder establecido hasta el momento, cuestionar los dogmas mas extendidos y mediante acciones (en forma de código) plantear una alternativa mas accesible, justa y segura al sistema financiero que conocíamos.
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,7 +143,7 @@ Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de 
 Las única certeza de la que disponemos hoy en día es que por el momento el creador no ha realizado ningún movimiento desde aquel cada vez mas distante año 2008, por lo que, hasta que se demuestre lo contrario, indican la naturaleza altruista de esta tecnología.
 
 
-
+<br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 2 - BLOCKCHAIN A DIA DE HOY
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -178,6 +181,8 @@ EUR M2 Supply
 
 Fuente: 
 https://www.tradingview.com/symbols/ECONOMICS-EUM2/?timeframe=ALL
+
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -223,6 +228,7 @@ Se ha transicionado desde un momento en el cual los mineros eran mayoritariament
 
 Se comenzó minando con CPUs que eran accesibles al público, y la especialización dió como resultado nuevo hardware como los ASIC (Circuitos Integrados de Aplicación Específica).
 
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -258,6 +264,8 @@ Buscando ejemplos podemos mirar a Ethereum Foundation, Ripple y Solana Foundatio
 
 Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fecha.
 
+<br><br/>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
    MOTIVACION DE INVERSION: ESPECULACION VS UTILIDAD
@@ -290,6 +298,8 @@ Al valorar una inversión siempre es necesario hacer un análisis fundamental de
 
 Posteriormente a esta Valoración, cabe destacar que si bien ha habido una gran revalorización en el precio de BTC, la capitalización de mercado, teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar.
 
+<br><br/>
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 3 - TENDENCIAS A FUTURO
@@ -323,7 +333,7 @@ Entonces podemos observar lo importante que es para el progreso social de los in
 En el ámbito mas profesional, partimos de la base de un sistema interbancario como SWIFT que si bien funciona, utilizando las nuevas tecnologías podría amplificar enormemente sus capacidades.
 
 
-
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -352,6 +362,7 @@ de un mensaje utilizan un lenguaje común que les permita interpretar esta infor
 
 Esto es especialmente importante si cualquiera de las partes utiliza sistemas automatizados de comunicación de mensajes para procesar la información.
 
+<br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -386,7 +397,7 @@ ISO 20022 se utiliza en una variedad de contextos, como transferencias de fondos
 
 ISO 20022 está ganando popularidad a medida que más instituciones financieras y empresas lo adoptan, impulsando su implementación en toda la industria bancaria y financiera global.
 
-
+<br><br/>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -444,7 +455,7 @@ Normalmente las reservas están compuestas por activos líquidos y equivalentes 
 
 El porcentaje respecto al total de las reservas de moneda fiat atesorada / bonos / activos líquidos es diferente para cada una de ellas. dependiendo de la entidad privada que la gestione. 
 
-
+<br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------	
 CONCLUSION FINAL
 ----------------------------------------------------------------------------------------------------------------------------------------
