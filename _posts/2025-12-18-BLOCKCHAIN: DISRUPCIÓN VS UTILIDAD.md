@@ -2,20 +2,18 @@
 Title: "BLOCKCHAIN: DISRUPCIÓN VS UTILIDAD"
 Date: 2025-12-18
 ---
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 INDICE
 
 
 1. Historia de una disrupción
 
-        Orígenes de Btc y propósito inicial
+   Movimiento Cypherpunk
 
-        Movimiento Cypherpunk
+   Materialización de la prueba de concepto
 
-        Prueba De Concepto inicial
-
-        Teorias sobre el origen
+   Teorias sobre el origen
 	
 
 
@@ -27,9 +25,9 @@ INDICE
 
 	Dirección de los proyectos
 
-  Una mirada a la situación actual
+    Una mirada a la situación actual
 
-  Tendencia a futuro
+    Tendencia a futuro
   
 
 
@@ -55,23 +53,27 @@ El objetivo de este texto es poner en contexto y dar perspectiva a la historia d
 Se trata de un análisis sobre como se ha transicionado desde la filosófica primera POC a desarrollos posteriores con tecnologías que mejoran la misma y dan una utilidad mas cercana a las necesidades del humanas y del mercado.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-1. Historia precedente
 
+1. HISTORIA DE UNA DISRUPCIÓN
 
-Aquellos años 80, una de las epocas mas gloriosas para los consumidores tecnológicos: 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Aquellos años 80, una de las épocas mas gloriosas para los consumidores tecnológicos.
 
 Llegan los CompactDiscs, los ordenadores personales (Personal Computers), los primeros teléfonos móviles, las cámaras grabadoras de video, el walkman, las primeras pantallas LCD, videoconsolas, sin olvidarnos del notorio inicio de la conectividad global gracias a la implementación del protocolo TCP/IP, que permitía comunicaciones entre distintas redes de dispositivos.
 
 Toda una explosión de funcionalidades equipadas en aquellos nuevos aparatos, que aunque fuesen vendidos en muchos casos a precios casi prohibitivos para el ciudadano medio, fueron de una relevancia altísima, y la base para el desarrollo de todos los que utilizamos hoy en día.
 
-Algunos dispositivos fracasaron, pero otros muchos fueron utilizados en masa por la gente de aquellos tiempos, permitiendoles vislumbrar el futuro con aquella tecnología mientras disfrutaban de funcionalidades que solo se podian fantasear hasta aquel momento. 
+Algunos dispositivos fracasaron, pero otros muchos fueron utilizados en masa por la gente de aquellos tiempos, permitiéndoles vislumbrar el futuro, gracias a aquella tecnología, mientras disfrutaban de funcionalidades que hasta aquel momento solo se podían fantasear.
 
 Fueron los pioneros y los BetaTesters de algo más grande que se desarrollaría gracias a la experiencia e interacción de los consumidores con las grandes empresas tecnológicas.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+   MOVIMIENTO CYPHERPUNK
 
-Movimiento Cypherpunk
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 Los primeros indicios de la existencia movimiento Cypherpunk se remontan alrededor del año 1985. 
@@ -106,9 +108,12 @@ https://nakamotoinstitute.org/library/cypherpunk-manifesto/
 
 https://cryptoanarchy.wiki/
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+   MATERIALIZACION DE LA PRUEBA DE CONCEPTO
+   
+----------------------------------------------------------------------------------------------------------------------------------------
 
-Creación de la prueba de concepto en 2008
 
 Partiendo del inmenso y complejo trabajo de campo realizado por los cypherpunks, la filosofía anarquista comenzó a ver posible una materialización, que hasta el momento, había sido plasmada en lineas de código orientadas principalmente en mejorar los estandares criptográficos.
 
@@ -118,7 +123,14 @@ A su vez, esta concepción divina parecía proceder de la unión entre la trinid
 
 Un antes y un después que influiría en el Status quo. Lllegó para poner en jaque al poder establecido hasta el momento, cuestionar los dogmas mas extendidos y mediante acciones (en forma de código) plantear una alternativa mas accesible, justa y segura al sistema financiero que conocíamos.
 
-Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las mas conservadoras a las mas peregrinas;
+----------------------------------------------------------------------------------------------------------------------------------------
+
+   TEORIAS SOBRE EL ORIGEN
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas;
 
 
 Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
@@ -134,16 +146,16 @@ Las única certeza de la que disponemos hoy en día es que por el momento el cre
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+2. BLOCKCHAIN A DIA DE HOY
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+   VALOR DE ECOSISTEMAS BLOCKCHAIN VS MONEDAS FIAT
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-2. Utilidad real en el dia de hoy
-
-Valor Blockchain vs FIAT
 
 Como prueba de concepto de blockchain, supuso un antes y un después, una tecnología impecable, una encarnación del concepto cypherpunk.
 
@@ -161,8 +173,7 @@ El resultado es la dilución del valor del dinero, siendo el atesoramiento de es
 
 Sin embargo BTC y otras “cryptos” tienen una cantidad máxima (si no se vota lo contrario por la red), en contraste con EUR y USD. Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años
 
-M2 Supply
-
+USD M2 Supply
 
 
 
@@ -175,10 +186,11 @@ EUR M2 Supply
 Fuente: 
 https://www.tradingview.com/symbols/ECONOMICS-EUM2/?timeframe=ALL
 
----------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
-COMPETENCIA Y UTILIDAD
+   COMPETENCIA Y UTILIDAD
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Para que sea posible detectar posibilidades de mejora en los sistemas, es de menester ser crítico y evitar sesgos al juzgar la tecnología, independientemente de si nos gusta o no.
 
@@ -219,14 +231,11 @@ Se ha transicionado desde un momento en el cual los mineros eran mayoritariament
 Se comenzó minando con CPUs que eran accesibles al público, y la especialización dió como resultado nuevo hardware como los ASIC (Circuitos Integrados de Aplicación Específica).
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+   DESARROLLO DEL PROYECTO: DIRECCION NO MUY CLARA
 
-
-
-
-
-DESARROLLO DEL PROYECTO: DIRECCION NO MUY CLARA
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, y economistas entre otros, ha ido transformandose para adaptarse a las necesidades tecnológicas humanas.
 
@@ -256,9 +265,11 @@ Buscando ejemplos podemos mirar a Ethereum Foundation, Ripple y Solana Foundatio
 
 Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fecha.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-MOTIVACION DE INVERSION: ESPECULACION VS UTILIDAD
+   MOTIVACION DE INVERSION: ESPECULACION VS UTILIDAD
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Casi ya 15 años atrás, recuerdo estar en un autobús leyendo el White Paper de Bitcoin, camino de la universidad. 
 
@@ -287,12 +298,11 @@ Al valorar una inversión siempre es necesario hacer un análisis fundamental de
 Posteriormente a esta Valoración, cabe destacar que si bien ha habido una gran revalorización en el precio de BTC, la capitalización de mercado, teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+3. TENDENCIAS A FUTURO
 
-
-
-TENDECIAS A FUTURO
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 La descentralizacion ha sido uno de los conceptos mas importantes para movimientos opuestos al estatitsmo. 
 
@@ -324,12 +334,11 @@ En el ámbito mas profesional, partimos de la base de un sistema interbancario c
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-ISO 20022
+   ESTANDAR ISO 20022, EVOLUCIÓN NATURAL
 
-
-Estandar ISO 20022, Evolución de otros ya existentes
- 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ISO 15022 es actualmente la norma de valores predominante en liquidaciones transfronterizas, la conciliación y el procesamiento de información. 
 
@@ -353,11 +362,11 @@ de un mensaje utilizan un lenguaje común que les permita interpretar esta infor
 Esto es especialmente importante si cualquiera de las partes utiliza sistemas automatizados de comunicación de mensajes para procesar la información.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
+   ¿SOBRE QUE TRATA ISO 20022?
 
-
-De que trata ISO 20022
-
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Es un estándar internacional para el intercambio de datos financieros. Permite la comunicación entre diferentes sistemas y organizaciones de manera más eficiente y estandarizada. 
 
@@ -389,22 +398,21 @@ ISO 20022 está ganando popularidad a medida que más instituciones financieras 
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-Stablecoins vs CBDC
+   STABLECOIN VS CBDC
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Es observable que estamos viviendo una de las grandes batallas en la historia del dinero. 
 
 La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas;
-
 
 CBDC
 
 CBDC es una moneda digital que está creada por un banco central, como podría ser el BCE en Europa.
 
 El origen de ellas viene dado de las necesidades o pretensiones de Gobiernos y Bancos centrales de digitalizar el dinero.
-
-
-	Reservas
 
 La oferta y política monetaria esta controlada por esta entidad, y dependiendo de su necesidad se podrían diseñar diferentes características a medida. 
 
@@ -423,9 +431,7 @@ Todo esto se materializa en la peor pesadilla de los cypherpunks XD.
 Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto de Bitcoin.
 
 
-
-
-Stablecoin
+STABLECOIN
 
 Las Stablecoins son tokenizaciones de monedas FIAT, que están creadas por entidades privadas u organizaciones que gestionan el desarrollo de ciertos proyectos.
 
@@ -439,20 +445,18 @@ En su proceso de implementación, la funcionalidad de las Stablecoin también es
 
 Las más relevantes que existen en el mercado a día de hoy serían las creadas por Tehter, Circle, Ripple, PayPal y Ethena.
 
-USDT USDC RLUSD PYUSD EUSD.
-
-
-	Reservas
+USDT USDC RLUSD PYUSD EUSD
 
 Todas ellas difieren, dependiendo de la organización que las gestiona, en que Blockchain están disponibles o integradas, y como están respaldadas con activos reales.
 
-Normalmente las reservas están compuestas por activos líquidos y equivalentes de cash, como bonos a corto plazo y reservas de la moneda física. ***
+Normalmente las reservas están compuestas por activos líquidos y equivalentes de cash, como bonos a corto plazo y reservas de la moneda física.
 
 El porcentaje respecto al total de las reservas de moneda fiat atesorada / bonos / activos líquidos es diferente para cada una de ellas. dependiendo de la entidad privada que la gestione. 
 
 
-	
-Conclusión
+----------------------------------------------------------------------------------------------------------------------------------------	
+CONCLUSION FINAL
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria.
 
