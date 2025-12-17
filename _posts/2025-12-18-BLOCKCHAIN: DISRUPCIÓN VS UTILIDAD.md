@@ -4,7 +4,7 @@ Date: 2025-12-18
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-INDICE
+INDICE <br><br/>
 
 
 1. Historia de una disrupción
@@ -13,9 +13,8 @@ INDICE
 
    Materialización de la prueba de concepto
 
-   Teorias sobre el origen
-	
-
+   Teorias sobre el origen <br><br/>
+   
 
 2. Blockchain en el mundo de hoy
 
@@ -27,35 +26,32 @@ INDICE
 
     Una mirada a la situación actual
 
-    Tendencia a futuro
+    Tendencia a futuro <br><br/>
   
 
-
- 3. ISO 20022
+ 3. ISO 20022 
 
 	Estandar ISO 20022, Evolución de otros ya existentes
 	
 	De que trata ISO 20022
 
-	Stablecoins vs CBDCs
+	Stablecoins vs CBDCs <br><br/>
 
 
- 4. Conclusión final
+ 4. Conclusión final <br><br/>
 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-Prólogo: 
+PROLOGO
+----------------------------------------------------------------------------------------------------------------------------------------
 
 El objetivo de este texto es poner en contexto y dar perspectiva a la historia detrás de la disrupción tecnológica que ha supuesto la tecnología blockchain. 
 
 Se trata de un análisis sobre como se ha transicionado desde la filosófica primera POC a desarrollos posteriores con tecnologías que mejoran la misma y dan una utilidad mas cercana a las necesidades del humanas y del mercado.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-1. HISTORIA DE UNA DISRUPCIÓN
-
+1 - HISTORIA DE UNA DISRUPCIÓN
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Aquellos años 80, una de las épocas mas gloriosas para los consumidores tecnológicos.
@@ -84,9 +80,7 @@ Tanteaban la alternativa de diseñar sistemas que protegiesen y garantizasen la 
 
 La motivación que movía esta corriente ideológica buscaba dejar de lado la centralización de la información y la delegación de poder que automaticamente un tercero se ve obligado a asumir con las entidades propietarias del software y hardware.
 
-Fuente del libro de 1985 --->
 
-https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf
 
 
 Es de vital importancia la evolución que estas ideas experimentaron, gracias a ciertos grupos que las tomaron como su filosofía, para posteriormente desembocar en el movimiento crypto anarquista, cuyos integrantes actuaban en torno a los principios y premisas de los cypherpunk.
@@ -95,14 +89,15 @@ La meta era democratizar y garantizar la igualdad de acceso a la información, p
 
 En 1988 Eric Huges escribió el importante manifiesto crypto-anarquista:
 
- --->
-
-https://nakamotoinstitute.org/library/cypherpunk-manifesto/
-
 “We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money”
 
 “Nosotros los cypherpunks, estamos dedicados a construir sistemas que garanticen el anonimato. Estamos defendiendo la privacidad mediante la cryptografia, los sistemas de mensagería anónimos y con dinero electrónico”
 
+Fuente del libro de 1985 --->
+
+https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf
+
+ ---> Manifiesto --->  https://nakamotoinstitute.org/library/cypherpunk-manifesto/
 
 -----> Informacion adicional para interesados:
 
@@ -133,13 +128,13 @@ Un antes y un después que influiría en el Status quo. Lllegó para poner en ja
 Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas;
 
 
-Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
+- Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
 
-Persona o grupo de personas cuyos conocimiento sobre economía y tecnología  permitió la creación de una prueba de concepto original.
+- Persona o grupo de personas cuyos conocimiento sobre economía y tecnología  permitió la creación de una prueba de concepto original.
 
-Agencias de inteligencia con la capacidad técnica de crear un sitema de estas características, con fines cercanos al control o rastreo social de los nuevos sitemas de pago. (Sería muy osado obviar que un cuchillo puede ser una herramienta o un arma blanca, dependiendo de la intención del portador)
+- Agencias de inteligencia con la capacidad técnica de crear un sitema de estas características, con fines cercanos al control o rastreo social de los nuevos sitemas de pago. (Sería muy osado obviar que un cuchillo puede ser una herramienta o un arma blanca, dependiendo de la intención del portador)
 
-Entrega de tecnología avanzada para la humanidad, como ocurrió en el Suceso de Roswell, con el descubrimiento del silicio, supuso la piedra angular del futuro desarrollo de los microchips y sistemas que utilizamos hoy en día.
+- Entrega de tecnología avanzada para la humanidad, como ocurrió en el Suceso de Roswell, con el descubrimiento del silicio, supuso la piedra angular del futuro desarrollo de los microchips y sistemas que utilizamos hoy en día.
 
 
 Las única certeza de la que disponemos hoy en día es que por el momento el creador no ha realizado ningún movimiento desde aquel cada vez mas distante año 2008, por lo que, hasta que se demuestre lo contrario, indican la naturaleza altruista de esta tecnología.
@@ -147,9 +142,7 @@ Las única certeza de la que disponemos hoy en día es que por el momento el cre
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-2. BLOCKCHAIN A DIA DE HOY
-
+2 - BLOCKCHAIN A DIA DE HOY
 ----------------------------------------------------------------------------------------------------------------------------------------
 
    VALOR DE ECOSISTEMAS BLOCKCHAIN VS MONEDAS FIAT
@@ -299,9 +292,7 @@ Posteriormente a esta Valoración, cabe destacar que si bien ha habido una gran 
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-3. TENDENCIAS A FUTURO
-
+3 - TENDENCIAS A FUTURO
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 La descentralizacion ha sido uno de los conceptos mas importantes para movimientos opuestos al estatitsmo. 
@@ -408,7 +399,7 @@ Es observable que estamos viviendo una de las grandes batallas en la historia de
 
 La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas;
 
-CBDC
+- CBDC
 
 CBDC es una moneda digital que está creada por un banco central, como podría ser el BCE en Europa.
 
@@ -431,7 +422,7 @@ Todo esto se materializa en la peor pesadilla de los cypherpunks XD.
 Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto de Bitcoin.
 
 
-STABLECOIN
+- STABLECOIN
 
 Las Stablecoins son tokenizaciones de monedas FIAT, que están creadas por entidades privadas u organizaciones que gestionan el desarrollo de ciertos proyectos.
 
@@ -487,6 +478,3 @@ El consumidor final tiene la libertad de elegir entre las todas las opciones dis
 Dia tras día recibimos noticias de como se están otorgando licencias bancarias y de participación en el mercado a las empresas detrás de las Stablecoins, que ya mueven una cantidad ingente de dinero como Tehter Circle o Ripple.
 
 A 12 de Diciembre de 2025, la OCC ha dictaminado que empresas como Coinbase, Ripple, Fidelity Digital Assets, BitGo y Paxos han recibido el visto bueno de las entidades reguladoras para convertirse en Bancos de activos digitales.
-
-
-	Tokenizaciones de activos
