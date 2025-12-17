@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+L3P'S CYBERPUNKISH BLOG
+
 
