@@ -9,13 +9,13 @@ INDICE
 
 1. Historia de una disrupción
 
-  Orígenes de Btc y propósito inicial 
+        Orígenes de Btc y propósito inicial
 
-  Movimiento Cypherpunk
+        Movimiento Cypherpunk
 
-  Prueba De Concepto inicial
+        Prueba De Concepto inicial
 
-  Teorias sobre el origen
+        Teorias sobre el origen
 	
 
 
