@@ -54,6 +54,9 @@ Se trata de un análisis sobre como se ha transicionado desde la filosófica pri
 ----------------------------------------------------------------------------------------------------------------------------------------
 1 - HISTORIA DE UNA DISRUPCIÓN
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+![Manhattan_1980s_color_97](https://github.com/user-attachments/assets/07690504-9239-421b-84ab-c49bf2479565)
+
 Aquellos años 80, una de las épocas mas gloriosas para los consumidores tecnológicos.
 
 Llegan los CompactDiscs, los ordenadores personales (Personal Computers), los primeros teléfonos móviles, las cámaras grabadoras de video, el walkman, las primeras pantallas LCD, videoconsolas, sin olvidarnos del notorio inicio de la conectividad global gracias a la implementación del protocolo TCP/IP, que permitía comunicaciones entre distintas redes de dispositivos.
@@ -70,6 +73,8 @@ Fueron los pioneros y los BetaTesters de algo más grande que se desarrollaría 
    MOVIMIENTO CYPHERPUNK
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1061" height="558" alt="CYpherpunksss" src="https://github.com/user-attachments/assets/531299f1-7a0b-4dbe-a4db-17066eab0ac9" />
 
 
 Los primeros indicios de la existencia movimiento Cypherpunk se remontan alrededor del año 1985. 
@@ -110,6 +115,7 @@ https://cryptoanarchy.wiki/
    MATERIALIZACION DE LA PRUEBA DE CONCEPTO
    
 ----------------------------------------------------------------------------------------------------------------------------------------
+![btccc](https://github.com/user-attachments/assets/2b30dc2d-35a0-4d64-8c4a-df7a8ec4b5bf)
 
 
 Partiendo del inmenso y complejo trabajo de campo realizado por los cypherpunks, la filosofía anarquista comenzó a ver posible una materialización, que hasta el momento, había sido plasmada en lineas de código orientadas principalmente en mejorar los estandares criptográficos.
@@ -127,6 +133,7 @@ Un antes y un después que influiría en el Status quo. Lllegó para poner en ja
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1411" height="786" alt="maxhhhh" src="https://github.com/user-attachments/assets/b3b93db5-589f-4455-b9f5-f0e6c47fedaf" />
 
 Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas;
 
@@ -151,6 +158,8 @@ Las única certeza de la que disponemos hoy en día es que por el momento el cre
    VALOR DE ECOSISTEMAS BLOCKCHAIN VS MONEDAS FIAT
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+![dollar_burn](https://github.com/user-attachments/assets/9224ecbb-25e8-4ddd-9b76-06e088389fd1)
 
 
 Como prueba de concepto de blockchain, supuso un antes y un después, una tecnología impecable, una encarnación del concepto cypherpunk.
@@ -189,6 +198,9 @@ https://www.tradingview.com/symbols/ECONOMICS-EUM2/?timeframe=ALL
    COMPETENCIA Y UTILIDAD
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+![Pioneering-Cryptos-in-2025-Assessing-the-Potential-of-XRP-Solana-and-Ethereum](https://github.com/user-attachments/assets/f220a265-ed54-48be-9158-dbe95e5c78fd)
+
+
 
 Para que sea posible detectar posibilidades de mejora en los sistemas, es de menester ser crítico y evitar sesgos al juzgar la tecnología, independientemente de si nos gusta o no.
 
@@ -196,6 +208,7 @@ Craso error, sería también, el considerar algo como Perfecto o inmutable, cuan
 
 En la práctica, según ha ido cumpliendo años, el rendimiento de la red de BTC ha sido eclipsado por tecnologías que la consideraron en su momento como un Beta Tester Coin, y decidieron mejorar la tecnología presentada en su POC.
 
+<img width="591" height="401" alt="settlement_comparision" src="https://github.com/user-attachments/assets/195f264f-93ec-444e-9775-eaa4e6af7f3e" />
 
 
 
@@ -236,6 +249,9 @@ Se comenzó minando con CPUs que eran accesibles al público, y la especializaci
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+![developers_clash](https://github.com/user-attachments/assets/94259992-5d17-4dfb-a91e-35489a579c1b)
+
+
 En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, y economistas entre otros, ha ido transformandose para adaptarse a las necesidades tecnológicas humanas.
 
 En 2025, despúes de la disrupción inicial, hay muchas versiones de blockchain, con distintos casos de uso, y con diferentes objetivos.
@@ -271,6 +287,8 @@ Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fech
    MOTIVACION DE INVERSION: ESPECULACION VS UTILIDAD
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+![speculator](https://github.com/user-attachments/assets/e01c03fb-0b19-4361-98e3-cad4ebaff955)
+
 
 Casi ya 15 años atrás, recuerdo estar en un autobús leyendo el White Paper de Bitcoin, camino de la universidad. 
 
