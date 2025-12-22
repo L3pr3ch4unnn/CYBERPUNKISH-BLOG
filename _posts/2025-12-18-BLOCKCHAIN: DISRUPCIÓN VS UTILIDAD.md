@@ -77,11 +77,11 @@ Fueron los pioneros y los BetaTesters de algo más grande que se desarrollaría 
 <img width="1061" height="558" alt="CYpherpunksss" src="https://github.com/user-attachments/assets/531299f1-7a0b-4dbe-a4db-17066eab0ac9" />
 
 
-Los primeros indicios de la existencia movimiento Cypherpunk se remontan alrededor del año 1985. 
+Los primeros indicios de la existencia del movimiento Cypherpunk se remontan alrededor del año 1985. 
 
-Ideólogos como David Chaum publicaron importantes textos en los que se planteaba la posibilidad de darle un giro de tuerca al desarrollo tecnológico que se estaba presentando para los consumidores. 
+Ideólogos como David Chaum publicaron importantes textos en los que se planteaba la posibilidad de darle un giro de tuerca al desarrollo tecnológico que se estaba dando en la sociedad. 
 
-Tanteaban la alternativa de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios. 
+Se encontraban ante la tanteando la alternativa de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios. 
 
 La motivación que movía esta corriente ideológica buscaba dejar de lado la centralización de la información y la delegación de poder que automaticamente un tercero se ve obligado a asumir con las entidades propietarias del software y hardware.
 
@@ -118,13 +118,13 @@ https://cryptoanarchy.wiki/
 ![btccc](https://github.com/user-attachments/assets/2b30dc2d-35a0-4d64-8c4a-df7a8ec4b5bf)
 
 
-Partiendo del inmenso y complejo trabajo de campo realizado por los cypherpunks, la filosofía anarquista comenzó a ver posible una materialización, que hasta el momento, había sido plasmada en lineas de código orientadas principalmente en mejorar los estandares criptográficos.
+Partiendo del inmenso y complejo trabajo de campo realizado por los cypherpunks, la filosofía anarquista comenzó a ver posible una materialización, que hasta el momento, había sido plasmada en lineas de código orientadas principalmente a mejorar los estándares criptográficos.
 
 Sin preguntar o escuchar las pretensiones de la clase política o de los grandes jugadores del sistema económico/tecnológico, en 2008, ocurrió “El Evento”, el cual impuso unas nuevas reglas de juego en el tablero.
 
 A su vez, esta concepción divina parecía proceder de la unión entre la trinidad compuesta por tecnología, liberalismo económico y privacidad.
 
-Un antes y un después que influiría en el Status quo. Lllegó para poner en jaque al poder establecido hasta el momento, cuestionar los dogmas mas extendidos y mediante acciones (en forma de código) plantear una alternativa mas accesible, justa y segura al sistema financiero que conocíamos.
+Un antes y un después que influiría en el Status quo. Llegó para poner en jaque al poder establecido hasta el momento, cuestionar los dogmas predominantes, y mediante acciones transmutadas en código, plantear una alternativa más accesible, justa y segura al sistema financiero que conocíamos.
 <br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -137,12 +137,11 @@ Un antes y un después que influiría en el Status quo. Lllegó para poner en ja
 
 Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas;
 
-
 - Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
 
-- Persona o grupo de personas cuyos conocimiento sobre economía y tecnología  permitió la creación de una prueba de concepto original.
+- Persona o grupo de personas cuyos conocimiento sobre economía y tecnología permitió la creación de una prueba de concepto original.
 
-- Agencias de inteligencia con la capacidad técnica de crear un sitema de estas características, con fines cercanos al control o rastreo social de los nuevos sitemas de pago. (Sería muy osado obviar que un cuchillo puede ser una herramienta o un arma blanca, dependiendo de la intención del portador)
+- Agencias de inteligencia con la capacidad técnica de crear un sitema de estas características, con fines cercanos al control o rastreo social de los nuevos sitemas de pago. (Sería muy osado obviar que un cuchillo puede ser una herramienta o un arma blanca, dependiendo de la intención del portador).
 
 - Entrega de tecnología avanzada para la humanidad, como ocurrió en el Suceso de Roswell, con el descubrimiento del silicio, supuso la piedra angular del futuro desarrollo de los microchips y sistemas que utilizamos hoy en día.
 
@@ -168,7 +167,7 @@ En aquel momento reinaba la desconfianza en el proyecto, pero aun así siguió a
 
 Su apreciación de valor ha continuado creciendo hasta la actualidad.
 
-De hecho, hasta el momento ha sido mejor reserva de valor que cualquier moneda fiat como USD o EUR, ya que estas han sufrido de un alarmante incremento de la masa monetaria en circulacion  durante los últimos 20 años, disminuyendo el poder adquisitivo de los ciudadanos que las atesoran a medio o largo plazo.
+De hecho, hasta el momento, ha sido mejor reserva de valor que cualquier moneda FIAT como USD o EUR, ya que estas han sufrido de un alarmante incremento de su masa monetaria en circulacion durante los últimos 20 años, disminuyendo el poder adquisitivo de los ciudadanos que las atesoran a medio o largo plazo.
 
 La masa monetaria de USD, tomando como referencia el año 1985, se ha multiplicado x6.
 
@@ -176,7 +175,9 @@ La masa monetaria de EUR, tomando como referencia el año 1985, ha crecido cerca
 
 El resultado es la dilución del valor del dinero, siendo el atesoramiento de estas monedas una pobre inversión a medio y largo plazo.
 
-Sin embargo BTC y otras “cryptos” tienen una cantidad máxima (si no se vota lo contrario por la red), en contraste con EUR y USD. Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años
+Sin embargo BTC y otras “cryptos” con FUndamntales fuertes, se caractrizan por tener una cantidad máxima de unidades (si no se vota lo contrario por la red), en contraste con EUR y USD. 
+
+Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años
 
 USD M2 Supply
 
@@ -217,27 +218,29 @@ Fuente: https://www.mexc.com/learn/article/ethereum-vs-bitcoin-solana-cardano-po
 https://www.okx.com/en-us/learn/how-fast-are-xrp-transaction
 
 
-El coste de transacción de Blockchains como Solana y XRP Ledger es de 0.02$ y 0.0002$ respectivamente, por lo que son mucho mas eficientes que la red de BTC.
+El coste de transacción de Blockchains como Solana y XRP Ledger es de 0.02$ y 0.0002$ respectivamente, por lo que son mucho más eficientes que la red de BTC.
 
 Los costes de transacción si bien son relativamente bajos, son demasiado altos para realizar microtransacciones o transacciones de valor reducido, ya que el coste de la transacción supera al valor del dinero envíado si este es inferior a los 2 dolares.
 
-Mientras esto puede ser aceptable al mover cantidades de dinero grandes, no tiene cabida en los micropagos, que es el principal uso que harían los ciudadanos de a pie, pagar diariamente para comprar bienes básicos, como cuando uno va al supermercado.
+Mientras esto puede ser aceptable al mover cantidades de dinero grandes, no tiene cabida en los micropagos, que es el principal uso que harían los ciudadanos de a pie, el pagar diariamente para comprar bienes básicos, como cuando uno va al supermercado.
 
 
 La cantidad de Transacciones Por Segundo que BTC puede gestionar es de alrededor de 7, mientras su competencia puede llegar a las 1500/2500 TPS.
 
 
-Aquella fantasia de ser dinero electrónico eficiente se ve lejana, ya que la velocidad y escalabilidad de la red deja mucho que desear para poder ser utilizada masivamenteen el día a día.
+Aquella fantasia de ser dinero electrónico eficiente se ve distante, ya que la velocidad y escalabilidad de la red deja mucho que desear para poder ser utilizada masivamenteen el día a día.
 
 Algo que si se mantiene inmutable y ha sido de gran valor, es la existencia de una red alternativa que permite realizar intercambios de valor entre particulares sin requerir la utilización del sistem bancario tradicional, que incurre en burocracia y costes excesivos en comparación.
 
-Sin embargo sus limitaciones de diseño y rendimiento limitan la posibilidad de llegar a la meta planteada incialmente.
+Sin embargo, sus limitaciones de diseño y rendimiento dificultan en gran medida la posibilidad de llegar a la meta planteada incialmente.
 
-La dialectica imperante entre los defensores mas acérrimos para justificar la finalidad original de BTC ha cambiado a que es una buena reserva de valor. Después de aceptar que estas limitaciones no pueden ser obviadas.
+La dialéctica imperante entre los defensores mas acérrimos para justificar la finalidad original de BTC ha cambiado a que es una buena reserva de valor. 
+
+Después de aceptar que estas limitaciones no pueden ser obviadas.
 
 Según la dificultad del minado aumenta, también son mayores las necesidades de Hardware, y por tanto la barrera de entrada para participar como minero en la red de BTC es mas alta.
 
-Se ha transicionado desde un momento en el cual los mineros eran mayoritariamente actores particulares, hasta el momento actual, en el que la minería se concentra en extensivas empresas que invierten en hardware, creando gigantescas granjas de minado.
+Se ha transicionado desde un momento en el que los mineros eran mayoritariamente actores particulares, hasta el momento actual, en el que la minería se concentra en extensivas granjas, que son propiedad de empresas que invierten en hardware, creando gigantescas granjas de minado. De manifiesta importantcia la gigantesca barrera de entrada que existe.
 
 Se comenzó minando con CPUs que eran accesibles al público, y la especialización dió como resultado nuevo hardware como los ASIC (Circuitos Integrados de Aplicación Específica).
 
@@ -252,13 +255,13 @@ Se comenzó minando con CPUs que eran accesibles al público, y la especializaci
 ![developers_clash](https://github.com/user-attachments/assets/94259992-5d17-4dfb-a91e-35489a579c1b)
 
 
-En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, y economistas entre otros, ha ido transformandose para adaptarse a las necesidades tecnológicas humanas.
+En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, y economistas entre otros, ha ido transformándose para adaptarse a las necesidades tecnológicas humanas.
 
 En 2025, despúes de la disrupción inicial, hay muchas versiones de blockchain, con distintos casos de uso, y con diferentes objetivos.
 
-El concepto cypherpunk de descentralizacion total, ha ido adaptándose para integrarse en la sociedad.
+El concepto cypherpunk de descentralización total, ha ido adaptándose para integrarse en la sociedad.
 
-Filosóficamente puede sonar muy bonito, pero en la práctica, parece ser inestable y peligroso crear un modelo de negocio que use como base una tecnología compuesta por una red de anónimos, con importantes limitaciones técnicas respecto a escalabilidad, gobernabilidad, coste y rendimiento .
+Filosóficamente puede sonar muy bonito, pero en la práctica, parece ser inestable y peligroso crear un modelo de negocio que use como base una tecnología compuesta por una red de anónimos, con importantes limitaciones técnicas respecto a escalabilidad, gobernabilidad, coste y rendimiento.
 
 Surgieron así nuevas y mas eficientes opciones en el mercado, que mejoran estas limitaciones de la Prueba de Concepto que fue el Blockchain de Bitcoin.
 
@@ -266,7 +269,7 @@ Hoy en día existen ecosistemas completamente descentralizados, alrededor de los
 
 En contraste con otras redes de blockchain, la de BTC esta dirigida por la comunidad, y la dirección del proyecto depende de todos los participantes.
 
-Esto es muy democrático pero quizas no tan efectivo a la hora de enfocarse en una meta clara o de trabajar en la misma dirección.
+Esto suena muy democrático, pero quizas no tan efectivo a la hora de enfocarse en una meta clara o de trabajar en la misma dirección.
 
 Una excesiva anarquía provocaría que cada una de los participantes buscasen su propio interés en el futuro desarrollo de la red, pudiendo bloquear el avance de las votaciones o incluso creando forks del blockchain inicial.
 
@@ -278,7 +281,7 @@ Fruto de una excesiva descentralización, surgieron organizaciones que supervisa
 
 Buscando ejemplos podemos mirar a Ethereum Foundation, Ripple y Solana Foundation.
 
-Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fecha.
+Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fecha, y ya tengan masutilidad real que la red Beta Tester.
 
 <br><br/>
 
