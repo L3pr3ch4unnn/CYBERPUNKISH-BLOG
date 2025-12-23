@@ -398,30 +398,34 @@ Esto es especialmente importante si cualquiera de las partes utiliza sistemas au
 Se trata de un estándar internacional orientado al intercambio de datos financieros. Permite la comunicación entre diferentes sistemas y organizaciones de manera más eficiente y estandarizada. 
 
 Cualquier pequeña y mediana empresa puede fácilmente adaptar sus sistemas para implementar el estándar, conectándose a la red.
+<br><br/>
 
+Características de ISO 20022:
 <br><br/>
 
 - Estructura Flexible
 
-ISO 20022 permite a las instituciones definir mensajes de diferentes complejidades y longitud, adaptándose a diversas necesidades de negocio.
+	ISO 20022 permite a las instituciones definir mensajes de diferentes complejidades y longitud, adaptándose a diversas necesidades de negocio.
+<br><br/>
 
 - Modelado de Datos
 
-Utiliza una serie de estructuras de datos para facilitar su interrelación, comprensión e implementación.
+	Utiliza una serie de estructuras de datos para facilitar su interrelación, comprensión e implementación.
+<br><br/>
 
 - Interoperabilidad
 
-El estándar busca asegurar que los sistemas de diferentes proveedores puedan comunicarse entre sí sin problemas, reduciendo así costos y tiempo de integración.
-
+	El estándar busca asegurar que los sistemas de diferentes proveedores puedan comunicarse entre sí sin problemas, reduciendo así costos y tiempo de integración.
+<br><br/>
 - Mensajes XML
 
-Los mensajes son generalmente estructurados en XML, lo que hace que sean fáciles de leer y procesar tanto por humanos como por máquinas.
-
+	Los mensajes son generalmente estructurados en XML, lo que hace que sean fáciles de leer y procesar tanto por humanos como por máquinas.
+<br><br/>
 - Ámbitos de Uso
 
-ISO 20022 se utiliza en una variedad de contextos, como transferencias de fondos, pagos, y mensajes de facturación entre otros.
+	ISO 20022 se utiliza en una variedad de contextos, como transferencias de fondos, pagos, y mensajes de facturación entre otros.
 
-ISO 20022 está ganando popularidad a medida que más instituciones financieras y empresas lo adoptan, impulsando su implementación en toda la industria bancaria y financiera global.
+	ISO 20022 está ganando popularidad a medida que más instituciones financieras y empresas lo adoptan, impulsando su implementación en toda la industria bancaria y financiera global.
 
 <br><br/>
 
