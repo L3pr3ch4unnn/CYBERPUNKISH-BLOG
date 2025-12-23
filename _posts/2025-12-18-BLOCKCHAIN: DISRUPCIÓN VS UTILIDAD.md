@@ -152,7 +152,7 @@ Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de 
 Las única certeza de la que disponemos hoy en día es que por el momento el creador no ha realizado ningún movimiento desde aquel cada vez mas distante año 2008, por lo que, hasta que se demuestre lo contrario, indican la naturaleza altruista de esta tecnología.
 
 <br><br/>
-
+<br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 2 - BLOCKCHAIN A DIA DE HOY
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -337,7 +337,9 @@ Posteriormente a la revaloración que han experimentado estos activos en los úl
 ----------------------------------------------------------------------------------------------------------------------------------------
 3 - TENDENCIAS A FUTURO
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+<br><br/>
+![Cyberpunk City](https://github.com/user-attachments/assets/69a10417-2d5b-41be-93be-6e67225c7c09)
+<br><br/>
 La descentralización ha sido uno de los conceptos mas importantes para movimientos opuestos al estatitsmo. 
 
 Por un lado, existen corrientes centralizadoras del poder y de la información, que han sido predominantes en la mayor parte de occidente durante los últimos años.
@@ -373,6 +375,9 @@ El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas 
    ESTANDAR ISO 20022, EVOLUCIÓN NATURAL
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
+![technology_photo](https://github.com/user-attachments/assets/e04b571f-ee7c-47d8-9ca2-43ff0b277c30)
+<br><br/>
 
 ISO 15022 es actualmente la norma de valores predominante en liquidaciones transfronterizas, conciliación y procesamiento de información. 
 
@@ -404,6 +409,11 @@ Esto es especialmente importante si cualquiera de las partes utiliza sistemas au
    ¿SOBRE QUE TRATA ISO 20022?
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
+
+![ISO_20022](https://github.com/user-attachments/assets/9c9ba262-549d-4bac-a9cd-68f0e1cc93eb)
+
+<br><br/>
 
 Se trata de un estándar internacional orientado al intercambio de datos financieros. Permite la comunicación entre diferentes sistemas y organizaciones de manera más eficiente y estandarizada. 
 
@@ -445,7 +455,9 @@ Características de ISO 20022:
    STABLECOIN VS CBDC
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+<br><br/>
+![stablecoin_digital](https://github.com/user-attachments/assets/f168882b-2f98-4f29-b71d-46613db2d64b)
+<br><br/>
 Es observable que estamos asistiendo a una de las grandes batallas en la historia del dinero. 
 
 La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas, una gran lucha entre el concepto de Stablecoin vs CBDC:
