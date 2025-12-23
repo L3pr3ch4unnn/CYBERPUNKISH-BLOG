@@ -364,21 +364,23 @@ El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-ISO 15022 es actualmente la norma de valores predominante en liquidaciones transfronterizas, la conciliación y el procesamiento de información. 
+ISO 15022 es actualmente la norma de valores predominante en liquidaciones transfronterizas, conciliación y procesamiento de información. 
 
-Se introdujo en torno a 1998 para sustituir a la ISO 7775, que estaba mucho menos estructurada y a menudo omitía información crucial. 
-
-Una de las ventajas de la norma es su enfoque basado en diccionarios de datos, que permite reutilizar y normalizar los datos en todos los mensajes.
+Se introdujo elrededor del año 1998, para así sustituir a la anterior normativa ISO 7775, que estaba mucho menos estructurada y a menudo omitía información importante para las partes implicadas. 
 
 Aproximadamente la mitad de los 40 millones de mensajes que se intercambian a diario en la red SWIFT son ISO 15022.
 
+Una de las ventajas de la norma es su enfoque basado en diccionarios de datos, que permite reutilizar y normalizar los datos en todos los mensajes.
+
 ISO 8583 se utiliza para casi todas las transacciones con tarjetas de crédito y débito, incluidos los cajeros automáticos.
 
-Las normas financieras son definiciones que abarcan un rango que comprende desde conceptos amplios hasta pequeñas unidades de negocio.
+<br><br/>
 
-Estas definiciones se plasman en un modelo estructurado, para que luego sea posible exportar esas definiciones a los desarrolladores y usuarios de aplicaciones, pantallas, mensajes, llamadas a interfaces API y cualquier otra representación de datos que necesita utilizar el lenguaje de las transacciones financieras con claridad y precisión.
+Las normas financieras son definiciones que abarcan un rango que comprende desde amplios conceptos hasta pequeñas unidades de negocio.
 
-Para desarrollar su actividad, las instituciones financieras intercambian grandes cantidades de información con sus clientes. y entre ellas.
+Estas definiciones se plasman en un modelo estructurado, para posteriormente sea posible exportar esas definiciones a los desarrolladores y usuarios de aplicaciones, pantallas, mensajes, llamadas a interfaces API y cualquier otra representación de datos que necesita utilizar el lenguaje de las transacciones financieras con claridad y precisión.
+
+Para desarrollar su actividad, las instituciones financieras intercambian grandes cantidades de información con sus clientes y entre ellas.
 
 Estos intercambios de información sólo funcionan si el emisor y el receptor
 de un mensaje utilizan un lenguaje común que les permita interpretar esta información.
