@@ -24,12 +24,10 @@ INDICE <br><br/>
 
 	Dirección de los proyectos
 
-    Motivación de inversión: Especulación vs Utilidad
-
-    Tendencia a futuro <br><br/>
+    Motivación de inversión: Especulación vs Utilidad <br><br/>
   
 
- 3. ISO 20022 
+ 3. Tendencias a futuro 
 
 	Estandar ISO 20022, Evolución de otros ya existentes
 	
@@ -514,7 +512,7 @@ La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas, u
 
 <br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------	
-CONCLUSION FINAL
+4 - CONCLUSION FINAL
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria de las monedas que gestionan.
