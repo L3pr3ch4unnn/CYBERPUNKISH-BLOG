@@ -29,9 +29,9 @@ INDICE <br><br/>
 
  3. Tendencias a futuro 
 
-	Estandar ISO 20022, Evolución de otros ya existentes
+	Estandar ISO 20022: Evolución de otros ya existentes
 	
-	De que trata ISO 20022
+	¿Sobre que trata ISO 20022?
 
 	Stablecoins vs CBDCs <br><br/>
 
