@@ -514,7 +514,7 @@ La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas, u
 ----------------------------------------------------------------------------------------------------------------------------------------	
 4 - CONCLUSION FINAL
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+<br><br/>
 Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria de las monedas que gestionan.
 
 Por lo tanto, para los más liberales, surgen dilemas éticos sobre como una entidad de naturaleza intervencionista y reguladora como el BCE, pudiese utilizar la tecnología como extensión de sus pretensiones.
@@ -542,3 +542,5 @@ El consumidor final tiene la libertad de elegir entre las todas las opciones dis
 Dia tras día recibimos noticias de como se están otorgando licencias bancarias y de participación en el mercado a las empresas detrás de las Stablecoins, que ya mueven una cantidad ingente de dinero como Tehter Circle o Ripple.
 
 A 12 de Diciembre de 2025, la OCC ha dictaminado que empresas como Coinbase, Ripple, Fidelity Digital Assets, BitGo y Paxos han recibido el visto bueno de las entidades reguladoras para convertirse en Bancos de activos digitales.
+
+<br><br/>
