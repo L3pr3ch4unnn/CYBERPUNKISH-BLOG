@@ -255,9 +255,9 @@ Se comenzó minando con CPUs que eran accesibles al público, y la especializaci
 ![developers_clash](https://github.com/user-attachments/assets/94259992-5d17-4dfb-a91e-35489a579c1b)
 
 
-En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, y economistas entre otros, ha ido transformándose para adaptarse a las necesidades tecnológicas humanas.
+En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, emprendedores y economistas entre otros participantes, ha ido transformándose para adaptarse a las necesidades tecnológicas humanas.
 
-En 2025, despúes de la disrupción inicial, hay muchas versiones de blockchain, con distintos casos de uso, y con diferentes objetivos.
+Hablando ya de 2025, despúes de la disrupción inicial, hay muchas versiones de blockchain, con distintos casos de uso, y con diferentes objetivos.
 
 El concepto cypherpunk de descentralización total, ha ido adaptándose para integrarse en la sociedad.
 
@@ -293,31 +293,33 @@ Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fech
 ![speculator](https://github.com/user-attachments/assets/e01c03fb-0b19-4361-98e3-cad4ebaff955)
 
 
-Casi ya 15 años atrás, recuerdo estar en un autobús leyendo el White Paper de Bitcoin, camino de la universidad. 
+Casi ya 15 años atrás, recuerdo estar sentado en un autobús municipal, leyendo el White Paper de Bitcoin, camino de las clases de la universidad.
 
-En aquel momento estudiaba Administracion y Dirección de empresas, antes de retornar a mi campo predilecto, ya que siempre hae sido un apasionado de los sistemas, hacking, programación... Por lo que para mí, todo esto encajaba en el puzzle, pero parecía demasiado bueno para ser verdad...
+En aquel momento estudiaba Administración y Dirección de empresas, antes de retornar a mi campo predilecto, ya que siempre hae sido un apasionado de los sistemas, hacking, programación... 
+Para mí, todo esto encajaba en el puzzle, pero parecía demasiado bueno para ser verdad...
 
-En aquel incómodo asiento del autobús municipal, estaba planteandome la pregunta; 
+En aquel estrecho y duro asiento del autobús municipal, estaba planteandome la incomoda pregunta; 
+
 ¿Es posble que algún día blockchain pueda llegar a ser tan grande que interese a los grandes jugadores?
 
 Ahora ya en 2025, los inversores institucionales han hecho su entrada y se han posicionado en los activos digitales. 
 
-Ya no es negociable si esta tecnología es el futuro de muchos sectores como el Sistema Financiero y de Contabilidad Distribuida, ya no es una mera especulación o proyección.
+Ya no es negociable si esta tecnología es el futuro de muchos sectores como el Sistema Financiero y de Contabilidad Distribuida, nunca mas será una mera especulación o proyección.
 
-Las preguntas que actualmente recorren mi cabeza ahora son: 
+Las preguntas más relevantes que actualmente recorren mi cabeza son: 
 
-¿Cual es la motivación de la entrada de los Inversores Institucionales?
+- ¿Cual es la motivación de la entrada de los Inversores Institucionales?
 
-¿Lo han hecho debido el rendimiendo del activo en comparación a las monedas Fiat y otros activos financieros buscando un rédito económico? 
+- ¿Han entrado debido el rendimiendo del activo en comparación a las monedas Fiat y otros activos financieros buscando un rédito económico? 
 
-¿Buscan realizar transacciones en blockchain por su eficiencia, fiabilidad y utilidad final? 
+- ¿Buscan realmente utilizar la red del Token o moneda que compran, o simplemente su objetivo es realizar transacciones en blockchain por su eficiencia, fiabilidad y utilidad final?
 
 
-Después de estas preguntas la única certeza que tengo es que el mercado y la competencia acabarán decidiendo que blockchains sobrevivirán en el medio y largo plazo.
+Después del planteamiento de estas preguntas, la única certeza palpable es que el mercado y la competencia acabarán decidiendo que blockchains y tecnologías sobrevivirán en el medio y largo plazo.
 
-Al valorar una inversión siempre es necesario hacer un análisis fundamental del valor del activo, en este caso como tecnología, y compararlo con otras redes que existan y puedan rivalizar.
+Necesario es, al valorar una inversión, llevar a cabo un análisis fundamental del valor del activo, en este caso como tecnología, y compararlo con otras redes que existan y puedan rivalizar.
 
-Posteriormente a esta Valoración, cabe destacar que si bien ha habido una gran revalorización en el precio de BTC, la capitalización de mercado, teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar.
+Posteriormente a la revaloración que han experimentado estos activos en los últimos años, cabe determinar que, si bien, ha habido una gran revalorización en el precio de BTC, la capitalización de mercado, teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar con la utilidad.
 
 <br><br/>
 <br><br/>
@@ -326,15 +328,15 @@ Posteriormente a esta Valoración, cabe destacar que si bien ha habido una gran 
 3 - TENDENCIAS A FUTURO
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-La descentralizacion ha sido uno de los conceptos mas importantes para movimientos opuestos al estatitsmo. 
+La descentralización ha sido uno de los conceptos mas importantes para movimientos opuestos al estatitsmo. 
 
-Por un lado existen corrientes centralizadoras del poder y de la información, que han sido predominantes en la mayor parte de occidente durante los últimos años.
+Por un lado, existen corrientes centralizadoras del poder y de la información, que han sido predominantes en la mayor parte de occidente durante los últimos años.
 
-Mas allá del simplismo bipartidista que reina en la politica, existen otras opciones que, quién sabe si por repetición o por mera ignorancia, se han detestado, ignorado o descartado sistemáticamente.
+Mas allá del simplismo bipartidista que reina en la política, existen otras opciones que, quién sabe si por repetición o por mera ignorancia, se han detestado, ignorado o descartado sistemáticamente.
 
-Anti sistema llamado por los mas fieles defensores del estatismo, sistema descentralizado alternativo por los otros. 
+Anti-sistema llamado por los mas fieles defensores del estatismo, sistema descentralizado alternativo por los otros. 
 
-Ambos bandos coincidirían en que Blockchain es la tecnología de facto para los que defienden la posibilidad de hacer las cosas de otra forma a la que se ha acostumbrado a la gente en los últimos tiempos, para dar la entrada a un terreno de juego en el que todos los actores estén al mismo nivel.
+Ambos bandos coincidirían en que Blockchain es la tecnología de facto para los que defienden la posibilidad de hacer las cosas de otra forma. Una manera alternativa a la que se ha acostumbrado a la gente en los últimos tiempos, para dar la entrada a un terreno de juego en el que todos los actores estén al mismo nivel.
 
 Entonces, ¿Como se consigue poner a todos los jugadores al mismo nivel?
 
@@ -346,13 +348,13 @@ Si aunamos ahora la infraestructura económica de la que disponemos, sumamos est
 
 En ciertos paises del mundo, sobre todo en los subdesarrollados, para mucha gente ha sido imposible tener acceso a una cuenta bancaria, y por lo tanto generar un ahorro, invertir, o mover el dinero. 
 
-No podemos olvidar que hay monedas en ciertos paises, que sufren una gran devaluación por la política monetaria que imponen los gobernantes. Claro ejemplo es la historia de Argentina.
+No podemos olvidar que hay monedas en ciertos paises, que sufren una gran devaluación causada principalmente por la política monetaria y decisiones que imponen los gobernantes. Claro ejemplo es la historia de Argentina.
 
-Entonces podemos observar lo importante que es para el progreso social de los individuos y su soberanía personal, tener una alternativa que permita autogestionar el patrimonio o riqueza generada con el trabajo.
+Podemos entonces observar lo importante que es para el progreso social de los individuos y su soberanía personal, tener una alternativa que permita autogestionar el patrimonio o riqueza generada con el trabajo.
 
+En el ámbito más profesional, partimos de la base de un sistema o red interbancaria como SWIFT que si bien funciona, parece ligeramente anticuiado. Permite el envío y la transferencia de dinero a nivel global, pero con un coste, un tiempo de envío y una disponibilidad mejorables respecto a las alternativas disponibles en 2025.
 
-En el ámbito mas profesional, partimos de la base de un sistema interbancario como SWIFT que si bien funciona, utilizando las nuevas tecnologías podría amplificar enormemente sus capacidades.
-
+El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas tecnologías, podría subsanar enormemente.
 
 <br><br/>
 
