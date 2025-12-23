@@ -40,16 +40,16 @@ INDICE <br><br/>
 
  4. Conclusión final <br><br/>
 
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------
+
 PROLOGO
+<br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
 
 El objetivo de este texto es poner en contexto y dar perspectiva a la historia detrás de la disrupción tecnológica que ha supuesto la tecnología blockchain. 
 
-Se trata de un análisis sobre como se ha transicionado desde la filosófica primera POC a desarrollos posteriores con tecnologías que mejoran la misma y dan una utilidad mas cercana a las necesidades del humanas y del mercado.
+Se trata de un análisis sobre como se ha transicionado desde la filosófica primera POC a desarrollos posteriores con tecnologías que mejoran la misma y dan una utilidad mas cercana a las necesidades humanas y del mercado.
 
 <br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
