@@ -24,7 +24,7 @@ INDICE <br><br/>
 
 	Dirección de los proyectos
 
-    Una mirada a la situación actual
+    Motivación de inversión: Especulación vs Utilidad
 
     Tendencia a futuro <br><br/>
   
