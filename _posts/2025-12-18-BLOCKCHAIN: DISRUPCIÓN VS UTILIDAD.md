@@ -376,7 +376,10 @@ El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
-![technology_photo](https://github.com/user-attachments/assets/e04b571f-ee7c-47d8-9ca2-43ff0b277c30)
+
+![tech_advance](https://github.com/user-attachments/assets/e6fc2b37-c9c5-4eea-a266-eb001a056faa)
+
+
 <br><br/>
 
 ISO 15022 es actualmente la norma de valores predominante en liquidaciones transfronterizas, conciliación y procesamiento de información. 
