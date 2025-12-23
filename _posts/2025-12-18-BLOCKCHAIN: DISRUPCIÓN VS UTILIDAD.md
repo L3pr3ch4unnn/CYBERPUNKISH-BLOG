@@ -104,7 +104,7 @@ En 1988 Eric Huges escribió el importante manifiesto crypto-anarquista:
 	Fuentes:
 	Libro de 1985 ---> https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf
 	Manifiesto --->  https://nakamotoinstitute.org/library/cypherpunk-manifesto/
-	Informacion adicional para interesados ---> https://cryptoanarchy.wiki/
+	Información adicional para interesados ---> https://cryptoanarchy.wiki/
 
 <br><br/>
 
