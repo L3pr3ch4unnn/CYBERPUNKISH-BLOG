@@ -45,17 +45,20 @@ INDICE <br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 PROLOGO
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 
 El objetivo de este texto es poner en contexto y dar perspectiva a la historia detrás de la disrupción tecnológica que ha supuesto la tecnología blockchain. 
 
 Se trata de un análisis sobre como se ha transicionado desde la filosófica primera POC a desarrollos posteriores con tecnologías que mejoran la misma y dan una utilidad mas cercana a las necesidades del humanas y del mercado.
-<br><br/>
+
 <br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------
 1 - HISTORIA DE UNA DISRUPCIÓN
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+<br><br/>
 ![Manhattan_1980s_color_97](https://github.com/user-attachments/assets/07690504-9239-421b-84ab-c49bf2479565)
+
+<br><br/>
 
 Aquellos años 80, una de las épocas mas gloriosas para los consumidores tecnológicos.
 
@@ -73,9 +76,10 @@ Fueron los pioneros y los BetaTesters de algo más grande que se desarrollaría 
    MOVIMIENTO CYPHERPUNK
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
+<br><br/>
 <img width="1061" height="558" alt="CYpherpunksss" src="https://github.com/user-attachments/assets/531299f1-7a0b-4dbe-a4db-17066eab0ac9" />
 
+<br><br/>
 
 Los primeros indicios de la existencia del movimiento Cypherpunk se remontan alrededor del año 1985. 
 
@@ -84,9 +88,6 @@ Ideólogos como David Chaum publicaron importantes textos en los que se planteab
 Se encontraban ante la tanteando la alternativa de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios. 
 
 La motivación que movía esta corriente ideológica buscaba dejar de lado la centralización de la información y la delegación de poder que automaticamente un tercero se ve obligado a asumir con las entidades propietarias del software y hardware.
-
-
-
 
 Es de vital importancia la evolución que estas ideas experimentaron, gracias a ciertos grupos que las tomaron como su filosofía, para posteriormente desembocar en el movimiento crypto anarquista, cuyos integrantes actuaban en torno a los principios y premisas de los cypherpunk.
 
@@ -98,15 +99,15 @@ En 1988 Eric Huges escribió el importante manifiesto crypto-anarquista:
 
 “Nosotros los cypherpunks, estamos dedicados a construir sistemas que garanticen el anonimato. Estamos defendiendo la privacidad mediante la cryptografia, los sistemas de mensagería anónimos y con dinero electrónico”
 
-Fuente del libro de 1985 --->
+<br><br/>
 
-https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf
-
- ---> Manifiesto --->  https://nakamotoinstitute.org/library/cypherpunk-manifesto/
-
------> Informacion adicional para interesados:
-
-https://cryptoanarchy.wiki/
+	Fuentes:
+	
+	Libro de 1985 ---> https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf
+	
+	Manifiesto --->  https://nakamotoinstitute.org/library/cypherpunk-manifesto/
+	
+	Informacion adicional para interesados: https://cryptoanarchy.wiki/
 
 <br><br/>
 
@@ -115,8 +116,9 @@ https://cryptoanarchy.wiki/
    MATERIALIZACION DE LA PRUEBA DE CONCEPTO
    
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 ![btccc](https://github.com/user-attachments/assets/2b30dc2d-35a0-4d64-8c4a-df7a8ec4b5bf)
-
+<br><br/>
 
 Partiendo del inmenso y complejo trabajo de campo realizado por los cypherpunks, la filosofía anarquista comenzó a ver posible una materialización, que hasta el momento, había sido plasmada en lineas de código orientadas principalmente a mejorar los estándares criptográficos.
 
@@ -132,10 +134,13 @@ Un antes y un después que influiría en el Status quo. Llegó para poner en jaq
    TEORIAS SOBRE EL ORIGEN
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 
 <img width="1411" height="786" alt="maxhhhh" src="https://github.com/user-attachments/assets/b3b93db5-589f-4455-b9f5-f0e6c47fedaf" />
 
-Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas;
+<br><br/>
+
+Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas:
 
 - Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
 
@@ -145,11 +150,12 @@ Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de 
 
 - Entrega de tecnología avanzada para la humanidad, como ocurrió en el Suceso de Roswell, con el descubrimiento del silicio, supuso la piedra angular del futuro desarrollo de los microchips y sistemas que utilizamos hoy en día.
 
+<br><br/>
 
 Las única certeza de la que disponemos hoy en día es que por el momento el creador no ha realizado ningún movimiento desde aquel cada vez mas distante año 2008, por lo que, hasta que se demuestre lo contrario, indican la naturaleza altruista de esta tecnología.
 
-
 <br><br/>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 2 - BLOCKCHAIN A DIA DE HOY
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -157,9 +163,11 @@ Las única certeza de la que disponemos hoy en día es que por el momento el cre
    VALOR DE ECOSISTEMAS BLOCKCHAIN VS MONEDAS FIAT
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 
 ![dollar_burn](https://github.com/user-attachments/assets/9224ecbb-25e8-4ddd-9b76-06e088389fd1)
 
+<br><br/>
 
 Como prueba de concepto de blockchain, supuso un antes y un después, una tecnología impecable, una encarnación del concepto cypherpunk.
 
@@ -181,16 +189,11 @@ Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los último
 
 USD M2 Supply
 
-
-
-Fuente:
-https://www.tradingview.com/symbols/ECONOMICS-USM2/?timeframe=ALL
-EUR M2 Supply
-
-
-
-Fuente: 
-https://www.tradingview.com/symbols/ECONOMICS-EUM2/?timeframe=ALL
+<br><br/>
+	
+	Fuentes:
+	USD M2 Supply ---> https://www.tradingview.com/symbols/ECONOMICS-USM2/?timeframe=ALL
+	EUR M2 Supply ---> https://www.tradingview.com/symbols/ECONOMICS-EUM2/?timeframe=ALL
 
 <br><br/>
 
@@ -199,8 +202,9 @@ https://www.tradingview.com/symbols/ECONOMICS-EUM2/?timeframe=ALL
    COMPETENCIA Y UTILIDAD
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 ![Pioneering-Cryptos-in-2025-Assessing-the-Potential-of-XRP-Solana-and-Ethereum](https://github.com/user-attachments/assets/f220a265-ed54-48be-9158-dbe95e5c78fd)
-
+<br><br/>
 
 
 Para que sea posible detectar posibilidades de mejora en los sistemas, es de menester ser crítico y evitar sesgos al juzgar la tecnología, independientemente de si nos gusta o no.
@@ -209,13 +213,13 @@ Craso error, sería también, el considerar algo como Perfecto o inmutable, cuan
 
 En la práctica, según ha ido cumpliendo años, el rendimiento de la red de BTC ha sido eclipsado por tecnologías que la consideraron en su momento como un Beta Tester Coin, y decidieron mejorar la tecnología presentada en su POC.
 
+<br><br/>
+
 <img width="591" height="401" alt="settlement_comparision" src="https://github.com/user-attachments/assets/195f264f-93ec-444e-9775-eaa4e6af7f3e" />
 
+<br><br/>
 
-
-Fuente: https://www.mexc.com/learn/article/ethereum-vs-bitcoin-solana-cardano-polkadot-xrp-litecoin-weth-complete-cryptocurrency-comparison-guide/1
-
-https://www.okx.com/en-us/learn/how-fast-are-xrp-transaction
+	
 
 
 El coste de transacción de Blockchains como Solana y XRP Ledger es de 0.02$ y 0.0002$ respectivamente, por lo que son mucho más eficientes que la red de BTC.
@@ -246,14 +250,22 @@ Se comenzó minando con CPUs que eran accesibles al público, y la especializaci
 
 <br><br/>
 
+	Fuentes:
+	Rendimiento comparativo ---> https://www.mexc.com/learn/article/ethereum-vs-bitcoin-solana-cardano-polkadot-xrp-litecoin-weth-complete-cryptocurrency-comparison-guide/1
+	https://www.okx.com/en-us/learn/how-fast-are-xrp-transaction
+
+<br><br/>
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
    DESARROLLO DEL PROYECTO: DIRECCION NO MUY CLARA
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 
 ![developers_clash](https://github.com/user-attachments/assets/94259992-5d17-4dfb-a91e-35489a579c1b)
 
+<br><br/>
 
 En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, emprendedores y economistas entre otros participantes, ha ido transformándose para adaptarse a las necesidades tecnológicas humanas.
 
@@ -290,8 +302,9 @@ Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fech
    MOTIVACION DE INVERSION: ESPECULACION VS UTILIDAD
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<br><br/>
 ![speculator](https://github.com/user-attachments/assets/e01c03fb-0b19-4361-98e3-cad4ebaff955)
-
+<br><br/>
 
 Casi ya 15 años atrás, recuerdo estar sentado en un autobús municipal, leyendo el White Paper de Bitcoin, camino de las clases de la universidad.
 
@@ -436,75 +449,75 @@ Características de ISO 20022:
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Es observable que estamos viviendo una de las grandes batallas en la historia del dinero. 
+Es observable que estamos asistiendo a una de las grandes batallas en la historia del dinero. 
 
-La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas;
+La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas, una gran lucha entre el concepto de Stablecoin vs CBDC:
+<br><br/>
 
 - CBDC
 
-CBDC es una moneda digital que está creada por un banco central, como podría ser el BCE en Europa.
+	CBDC es una moneda digital que está creada por un banco central, como podría ser el BCE en Europa.
+	
+	El origen de ellas viene dado de las necesidades o pretensiones de Gobiernos y Bancos centrales de digitalizar el dinero.
+	
+	La oferta y política monetaria esta controlada por esta entidad, y dependiendo de su necesidad se podrían diseñar diferentes características a medida. 
+	
+	Estarían respaldadas por el propio Banco Central.
+	
+	Una gran diferencia con su versión física es que el consumidor final experimentaría una inevitable transición. En este forzado cambio, cabría la posibilidad de incluir modificaciones de las características del dinero como se conoce hasta ese momento, al ser este programable.
+	
+	Si el Banco Central lo decidiese, en teoría se podrían aplicar distópicas reglas como límites de gasto, restricciones a donde se puede o no utilizar el dinero, límites de retiradas en efectivo al gusto del Banco Central y cualquier otra imposición que estas entidades responsables de su desarrollo consideren necesarias.
+	
+	Cabe destacar que la implementación técnica de las CBDC requiere su acople a un blockchain que permita la realización de transacciones con esta moneda.
+	
+	Su existencia por el momento (al no existir CBDC con un blockchain propio) no es autónoma.
+	
+	Todo esto se materializa en la peor pesadilla de los cypherpunks XD. 
+	
+	Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto de Bitcoin.
 
-El origen de ellas viene dado de las necesidades o pretensiones de Gobiernos y Bancos centrales de digitalizar el dinero.
-
-La oferta y política monetaria esta controlada por esta entidad, y dependiendo de su necesidad se podrían diseñar diferentes características a medida. 
-
-Estarían respaldadas por el propio Banco Central.
-
-Una gran diferencia con su versión física es que el consumidor final experimentaría una inevitable transición. En este forzado cambio, cabría la posibilidad de incluir modificaciones de las características del dinero como se conoce hasta ese momento, al ser este programable.
-
-Si el Banco Central lo decidiese, en teoría se podrían aplicar distópicas reglas como límites de gasto, restricciones a donde se puede o no utilizar el dinero, límites de retiradas en efectivo al gusto del Banco Central y cualquier otra imposición que estas entidades responsables de su desarrollo consideren necesarias.
-
-Cabe destacar que la implementación técnica de las CBDC requiere su acople a un blockchain que permita la realización de transacciones con esta moneda.
-
-Su existencia por el momento (al no existir CBDC con un blockchain propio) no es autónoma.
-
-Todo esto se materializa en la peor pesadilla de los cypherpunks XD. 
-
-Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto de Bitcoin.
-
+<br><br/>
 
 - STABLECOIN
-
-Las Stablecoins son tokenizaciones de monedas FIAT, que están creadas por entidades privadas u organizaciones que gestionan el desarrollo de ciertos proyectos.
-
-Surgieron en el mercado para subsanar la necesidad humana de mantener un valor estable de intercambio que permita alejarse de la volatilidad cuando se precise.
-
-Hoy en día se utilizan para realizar intercambios de dinero globalmente, y su uso crece constantemente.
-
-Poseen una madurez tecnológica mayor que las CBDC, ya que se encuentran integradas en los principales blockchains.
-
-En su proceso de implementación, la funcionalidad de las Stablecoin también es dependiente de su conexión a al menos un blockchain ya existente, que soporte las transacciones de dicha moneda.
-
-Las más relevantes que existen en el mercado a día de hoy serían las creadas por Tehter, Circle, Ripple, PayPal y Ethena.
-
-USDT USDC RLUSD PYUSD EUSD
-
-Todas ellas difieren, dependiendo de la organización que las gestiona, en que Blockchain están disponibles o integradas, y como están respaldadas con activos reales.
-
-Normalmente las reservas están compuestas por activos líquidos y equivalentes de cash, como bonos a corto plazo y reservas de la moneda física.
-
-El porcentaje respecto al total de las reservas de moneda fiat atesorada / bonos / activos líquidos es diferente para cada una de ellas. dependiendo de la entidad privada que la gestione. 
+	
+	Las Stablecoins son tokenizaciones de monedas FIAT, que están creadas por entidades privadas u organizaciones que gestionan el desarrollo de ciertos proyectos.
+	
+	Surgieron en el mercado para subsanar la necesidad humana de mantener un valor estable de intercambio que permita alejarse de la volatilidad cuando se precise.
+	
+	Hoy en día se utilizan para realizar intercambios de dinero globalmente, y su uso crece constantemente.
+	
+	Poseen una madurez tecnológica mayor que las CBDC, ya que se encuentran integradas en los principales blockchains.
+	
+	En su proceso de implementación, la funcionalidad de las Stablecoin también es dependiente de su conexión a al menos un blockchain ya existente, que soporte las transacciones de dicha moneda.
+	
+	Las más relevantes que existen en el mercado a día de hoy serían las creadas por Tehter, Circle, Ripple, PayPal y Ethena.
+	
+	USDT USDC RLUSD PYUSD EUSD
+	
+	Todas ellas difieren, dependiendo de la organización que las gestiona, en que Blockchain están disponibles o integradas, y como están respaldadas con activos reales.
+	
+	Normalmente las reservas están compuestas por activos líquidos y equivalentes de cash, como bonos a corto plazo y reservas de la moneda física.
+	
+	El porcentaje respecto al total de las reservas de moneda fiat atesorada / bonos / activos líquidos es diferente para cada una de ellas. dependiendo de la entidad privada que la gestione. 
 
 <br><br/>
 ----------------------------------------------------------------------------------------------------------------------------------------	
 CONCLUSION FINAL
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria.
+Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria de las monedas que gestionan.
 
-Por lo tanto para los más liberales, surgen dilemas éticos sobre como una entidad de naturaleza intervencionista y reguladora como el BCE, pudiese utilizar la tecnología como extensión de sus pretensiones.
+Por lo tanto, para los más liberales, surgen dilemas éticos sobre como una entidad de naturaleza intervencionista y reguladora como el BCE, pudiese utilizar la tecnología como extensión de sus pretensiones.
 
 Las Stablecoins, al menos, no están controladas por entidades Públicas. Las CBDC son una extensión del Gobierno de turno.
 
-Si se impusiese una CBDC alineada con Gobiernos y Bancos Centrales, debido a su naturaleza , al mismo tiempo dejaría de ser aceptable para los defensores de la soberanía personal y de los más liberales, e incluso de algunos principios del derecho.
+Si se impusiese una CBDC alineada con Gobiernos y Bancos Centrales, debido a su naturaleza, al mismo tiempo dejaría de ser aceptable para los defensores de la soberanía personal y de los más liberales, e incluso de algunos principios del derecho.
 
 El sueño húmedo de los autócratas...
 
-Pero no toda esperanza esta perdida.
+Pero no toda esperanza está perdida aún...
 
-Aqui les cuando llega el mercado para poner en orden las cosas, jugando un papel clave a favor de las Stablecoins y en detrimento de las CBDC:
-
-La imagen actual es clara. 
+Aqui es cuando llega el mercado, para poner en orden las cosas, jugando un papel clave a favor de las Stablecoins y en detrimento de las CBDC.
 
 Por un lado las Stablecoins están en auge, siendo uno de los mercados con mas proyección en los próximos años y que permite mover un gran volumen de dinero diariamente. 
 
