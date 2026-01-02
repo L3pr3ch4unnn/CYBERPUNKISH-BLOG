@@ -350,7 +350,7 @@ Tampoco podría negar que es una imporatante red resistente a la censura.
 <br><br/>
 ![Cyberpunk City](https://github.com/user-attachments/assets/69a10417-2d5b-41be-93be-6e67225c7c09)
 <br><br/>
-La descentralización ha sido uno de los conceptos mas importantes para movimientos opuestos al estatitsmo. 
+La descentralización ha sido uno de los conceptos más importantes para movimientos opuestos al estatitsmo. 
 
 Por un lado, existen corrientes centralizadoras del poder y de la información, que han sido predominantes en la mayor parte de occidente durante los últimos años.
 
@@ -368,13 +368,14 @@ Para garantizar la equidad, transparencia y fiabilidad entre todos los participa
 
 Si aunamos ahora la infraestructura económica de la que disponemos, sumamos estas reglas de juego y las amplificaciones tecnológicas, el resultado es un modernizado y accesible sistema financiero.
 
-En ciertos paises del mundo, sobre todo en los subdesarrollados, para mucha gente ha sido imposible tener acceso a una cuenta bancaria, y por lo tanto generar un ahorro, invertir, o mover el dinero. 
+En ciertos paises del mundo, sobre todo en los subdesarrollados, para mucha gente ha sido imposible tener acceso a una simple cuenta bancaria, y por lo tanto generar un ahorro, invertir, o mover el dinero. 
 
-No podemos olvidar que hay monedas en ciertos paises, que sufren una gran devaluación causada principalmente por la política monetaria y decisiones que imponen los gobernantes. Claro ejemplo es la historia de Argentina.
+No podemos olvidar que hay monedas en ciertos paises, que sufren una gran devaluación causada principalmente por la política monetaria y decisiones que imponen los gobernantes.
 
 Podemos entonces observar lo importante que es para el progreso social de los individuos y su soberanía personal, tener una alternativa que permita autogestionar el patrimonio o riqueza generada con el trabajo.
 
-En el ámbito más profesional, partimos de la base de un sistema o red interbancaria como SWIFT que si bien funciona, parece ligeramente anticuiado. Permite el envío y la transferencia de dinero a nivel global, pero con un coste, un tiempo de envío y una disponibilidad mejorables respecto a las alternativas disponibles en 2025.
+En el ámbito más profesional, partimos de la base de un sistema o red interbancaria como SWIFT, que si bien funciona, parece ligeramente anticuiada. 
+Permite el envío y la transferencia de dinero a nivel global, pero con un coste, un tiempo de envío y una disponibilidad ampliamente mejorables respecto a las alternativas disponibles en 2025.
 
 El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas tecnologías, podría subsanar enormemente.
 
@@ -392,26 +393,25 @@ El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas 
 
 <br><br/>
 
-ISO 15022 es actualmente la norma de valores predominante en liquidaciones transfronterizas, conciliación y procesamiento de información. 
-
-Se introdujo elrededor del año 1998, para así sustituir a la anterior normativa ISO 7775, que estaba mucho menos estructurada y a menudo omitía información importante para las partes implicadas. 
+ISO 15022 es actualmente la norma predominante en liquidaciones transfronterizas, conciliación y procesamiento de información. 
 
 Aproximadamente la mitad de los 40 millones de mensajes que se intercambian a diario en la red SWIFT son ISO 15022.
 
 Una de las ventajas de la norma es su enfoque basado en diccionarios de datos, que permite reutilizar y normalizar los datos en todos los mensajes.
 
-ISO 8583 se utiliza para casi todas las transacciones con tarjetas de crédito y débito, incluidos los cajeros automáticos.
+Se introdujo elrededor del año 1998, para así sustituir a la anterior normativa ISO 7775, que estaba mucho menos estructurada y a menudo omitía información importante para las partes implicadas.
+
+La normativa ISO 8583, se utiliza para casi todas las transacciones con tarjetas de crédito y débito, incluidos los cajeros automáticos.
 
 <br><br/>
 
 Las normas financieras son definiciones que abarcan un rango que comprende desde amplios conceptos hasta pequeñas unidades de negocio.
 
-Estas definiciones se plasman en un modelo estructurado, para posteriormente sea posible exportar esas definiciones a los desarrolladores y usuarios de aplicaciones, pantallas, mensajes, llamadas a interfaces API y cualquier otra representación de datos que necesita utilizar el lenguaje de las transacciones financieras con claridad y precisión.
+Estas definiciones se plasman en un modelo estructurado, y posteriormente se exportan esas definiciones a los desarrolladores, usuarios de aplicaciones, pantallas, mensajes, llamadas a interfaces API y cualquier otra representación de datos que necesita utilizar el lenguaje de las transacciones financieras con claridad y precisión.
 
 Para desarrollar su actividad, las instituciones financieras intercambian grandes cantidades de información con sus clientes y entre ellas.
 
-Estos intercambios de información sólo funcionan si el emisor y el receptor
-de un mensaje utilizan un lenguaje común que les permita interpretar esta información.
+Estos intercambios de información sólo funcionan si el emisor y el receptor de un mensaje, utilizan un lenguaje común que les permita interpretar esta información.
 
 Esto es especialmente importante si cualquiera de las partes utiliza sistemas automatizados de comunicación de mensajes para procesar la información.
 
@@ -448,7 +448,7 @@ Características de ISO 20022:
 
 - Interoperabilidad
 
-	El estándar busca asegurar que los sistemas de diferentes proveedores puedan comunicarse entre sí sin problemas, reduciendo así costos y tiempo de integración.
+	El estándar busca asegurar que los sistemas de diferentes proveedores puedan comunicarse entre sí sin problemas, reduciendo costos y tiempo de integración.
 <br><br/>
 - Mensajes XML
 
