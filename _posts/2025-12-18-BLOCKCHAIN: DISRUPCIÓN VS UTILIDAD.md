@@ -81,21 +81,21 @@ Fueron los pioneros y los Beta Testers de algo más grande, que se desarrollarí
 
 Los primeros indicios de la existencia del movimiento Cypherpunk se remontan alrededor del año 1985. 
 
-Ideólogos como David Chaum publicaron importantes textos en los que se planteaba la posibilidad de darle un giro de tuerca al desarrollo tecnológico que se estaba dando en la sociedad. 
+Ideólogos como David Chaum, ya publicaron importantes textos en los que se planteaba la posibilidad de darle un giro de tuerca al desarrollo tecnológico que estaba experiemntando la sociedad. 
 
-Se encontraban ante la tanteando la alternativa de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios. 
+Se encontraban tanteando la posibilidad de diseñar sistemas que protegiesen y garantizasen la privacidad de los usuarios antes los intereses de terceros. 
 
-La motivación que movía esta corriente ideológica buscaba dejar de lado la centralización de la información y la delegación de poder que automaticamente un tercero se ve obligado a asumir con las entidades propietarias del software y hardware.
+La motivación que movía esta corriente ideológica buscaba dejar de lado la centralización de la información y la delegación de poder, que automáticamente un consumidor tecnológico se ve obligado a asumir respecto a las entidades propietarias del software y hardware.
 
 Es de vital importancia la evolución que estas ideas experimentaron, gracias a ciertos grupos que las tomaron como su filosofía, para posteriormente desembocar en el movimiento crypto anarquista, cuyos integrantes actuaban en torno a los principios y premisas de los cypherpunk.
 
-La meta era democratizar y garantizar la igualdad de acceso a la información, privacidad y lo mas importante, la soberanía y empoderamiento del mismo ante terceros que podrían tener intereses totalmente contrapuestos.
+La meta era democratizar y garantizar la igualdad de acceso a la información, privacidad y lo mas importante, la soberanía y empoderamiento del individuo ante terceros que podrían tener intereses totalmente contrapuestos.
 
 En 1988 Eric Huges escribió el importante manifiesto crypto-anarquista:
 
 “We the Cypherpunks are dedicated to building anonymous systems. We are defending our privacy with cryptography, with anonymous mail forwarding systems, with digital signatures, and with electronic money”
 
-“Nosotros los cypherpunks, estamos dedicados a construir sistemas que garanticen el anonimato. Estamos defendiendo la privacidad mediante la cryptografia, los sistemas de mensagería anónimos y con dinero electrónico”
+“Nosotros los cypherpunks, estamos dedicados a construir sistemas que garanticen el anonimato. Estamos defendiendo la privacidad mediante la cryptografía, los sistemas de mensajería anónimos y con dinero electrónico”
 
 <br><br/>
 
@@ -137,17 +137,17 @@ Un antes y un después que influiría en el Status quo. Llegó para poner en jaq
 
 Existen diversas teorías sobre el origen del misterioso Satoshi y la prueba de Concepto, que abarcan desde las conservadoras a las más peregrinas:
 
-- Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
+- Persona o grupo de personas anónimas alineadas y continuistas del movimiento Cypherpunk, que utilizó un pseudónimo para cubrir su identidad y así plasmar esa Prueba de Concepto.
 
 - Persona o grupo de personas cuyos conocimiento sobre economía y tecnología permitió la creación de una prueba de concepto original.
 
 - Agencias de inteligencia con la capacidad técnica de crear un sitema de estas características, con fines cercanos al control o rastreo social de los nuevos sitemas de pago. (Sería muy osado obviar que un cuchillo puede ser una herramienta o un arma blanca, dependiendo de la intención del portador).
 
-- Entrega de tecnología avanzada para la humanidad, como ocurrió en el Suceso de Roswell, con el descubrimiento del silicio, supuso la piedra angular del futuro desarrollo de los microchips y sistemas que utilizamos hoy en día.
+- Entrega de tecnología avanzada para la humanidad, por otras formas de vida/inteligencia.
 
 <br><br/>
 
-Las única certeza de la que disponemos hoy en día es que por el momento el creador no ha realizado ningún movimiento desde aquel cada vez mas distante año 2008, por lo que, hasta que se demuestre lo contrario, indican la naturaleza altruista de esta tecnología.
+La única certeza de la que disponemos hoy en día es que, por el momento, el creador no ha realizado ningún movimiento desde aquel cada vez mas distante año 2008, por lo que, hasta que se demuestre lo contrario, indican una naturaleza altruista en el origen de esta tecnología.
 
 <br><br/>
 <br><br/>
