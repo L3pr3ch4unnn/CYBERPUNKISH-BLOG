@@ -166,21 +166,23 @@ La única certeza de la que disponemos hoy en día es que, por el momento, el cr
 
 Como prueba de concepto de blockchain, supuso un antes y un después, una tecnología impecable, una encarnación del concepto cypherpunk.
 
-En aquel momento reinaba la desconfianza en el proyecto, pero aun así siguió adelante, uniendo a desarrolladores, filósofos y economistas en uno de los giros mas apasionantes que ha dado el sistema financiero como lo conocíamos.
+En aquel momento reinaba la desconfianza en el proyecto, pero aun así siguió adelante, uniendo a desarrolladores, filósofos y economistas en uno de los giros mas apasionantes que ha dado el sistema financiero tal como lo conocíamos.
 
 Su apreciación de valor ha continuado creciendo hasta la actualidad.
 
-De hecho, hasta el momento, ha sido mejor reserva de valor que cualquier moneda FIAT como USD o EUR, ya que estas han sufrido de un alarmante incremento de su masa monetaria en circulacion durante los últimos 20 años, disminuyendo el poder adquisitivo de los ciudadanos que las atesoran a medio o largo plazo.
+De hecho, hasta el momento, ha sido mejor reserva de valor que cualquier moneda FIAT como USD o EUR, ya que estas han sufrido de un alarmante incremento de su masa monetaria en circulación durante los últimos 40 años, disminuyendo el poder adquisitivo de los ciudadanos que las atesoran a medio o largo plazo.
 
-La masa monetaria de USD, tomando como referencia el año 1985, se ha multiplicado x6.
+La masa monetaria en circulación de USD, tomando como referencia el año 1985, se ha multiplicado x6.
 
-La masa monetaria de EUR, tomando como referencia el año 1985, ha crecido cerca de un x8.
+La masa monetaria en circulación de EUR, tomando como referencia el año 1985, ha crecido cerca de un x8.
 
 El resultado es la dilución del valor del dinero, siendo el atesoramiento de estas monedas una pobre inversión a medio y largo plazo.
 
-Sin embargo BTC y otras “cryptos” con FUndamntales fuertes, se caractrizan por tener una cantidad máxima de unidades (si no se vota lo contrario por la red), en contraste con EUR y USD. 
+Sin embargo BTC y otras “cryptos” con características fundamentales fuertes, se caracterizan por tener una cantidad máxima de unidades (si no se vota lo contrario por la red), en contraste con EUR y USD. 
 
-Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años
+Notable diferencia entre bienes que tienden a la escasez, y otros que tienden a multiplicarse sin que su demanda o respaldo sea proporcional.
+
+Esto ha permitido la revalorización de los pares BTC/USD BTC/EUR en los últimos años.
 
 USD M2 Supply
 
