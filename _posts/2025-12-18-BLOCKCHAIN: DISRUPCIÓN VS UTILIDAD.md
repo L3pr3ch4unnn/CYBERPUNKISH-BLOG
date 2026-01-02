@@ -268,31 +268,31 @@ De manifiesta importantcia la nueva muralla china que se hagenerado con esta bar
 
 En 2012 partimos de un punto en el que apareció el concepto de Blockchain, y gracias a los desarrolladores, ideólogos, emprendedores y economistas entre otros participantes, ha ido transformándose para adaptarse a las necesidades tecnológicas humanas.
 
-Hablando ya de 2025, despúes de la disrupción inicial, hay muchas versiones de blockchain, con distintos casos de uso, y con diferentes objetivos.
+Hablando ya de 2025, tiempo despúes de la disrupción inicial, conviven muchas versiones de blockchain, con distintos casos de uso, y con diferentes objetivos.
 
 El concepto cypherpunk de descentralización total, ha ido adaptándose para integrarse en la sociedad.
 
 Filosóficamente puede sonar muy bonito, pero en la práctica, parece ser inestable y peligroso crear un modelo de negocio que use como base una tecnología compuesta por una red de anónimos, con importantes limitaciones técnicas respecto a escalabilidad, gobernabilidad, coste y rendimiento.
 
-Surgieron así nuevas y mas eficientes opciones en el mercado, que mejoran estas limitaciones de la Prueba de Concepto que fue el Blockchain de Bitcoin.
+Surgieron así nuevas y más eficientes opciones en el mercado, que mejoran estas limitaciones de la Prueba de Concepto que fue el Blockchain de BTC.
 
 Hoy en día existen ecosistemas completamente descentralizados, alrededor de los cuales, entidades privadas han generado un modelo de negocio que se orienta a las necesidades del mundo actual.
 
 En contraste con otras redes de blockchain, la de BTC esta dirigida por la comunidad, y la dirección del proyecto depende de todos los participantes.
 
-Esto suena muy democrático, pero quizas no tan efectivo a la hora de enfocarse en una meta clara o de trabajar en la misma dirección.
+Esto suena muy democrático, pero quizás no tan efectivo a la hora de enfocarse en una meta clara o de trabajar en la misma dirección.
 
-Una excesiva anarquía provocaría que cada una de los participantes buscasen su propio interés en el futuro desarrollo de la red, pudiendo bloquear el avance de las votaciones o incluso creando forks del blockchain inicial.
+Una excesiva anarquía provocaría que cada una de los participantes buscasen su propio interés en el futuro desarrollo de la red, pudiendo bloquear el avance de las votaciones o incluso crear forks del blockchain inicial.
 
-Esto ya ha ocurrido con Bitcoin Cash y Bitcoin Satoshi Vision, debido a una fragmentación en la comunidad en relación a la dirección que debe llevar el proyecto.
+Esto ya ha ocurrido con Bitcoin Cash y Bitcoin Satoshi Vision, debido a una fragmentación de la comunidad en relación a la dirección que debe llevar el proyecto.
 
-Esta situación sería inaceptable para una organización que teniendo un propósito o meta clara, poseería integrantes que se encontrarían alineados con sus intereses y misión de ser, remando coordinadamente en el río.
+Esta situación sería inaceptable para una organización que teniendo un propósito o meta claros, poseería integrantes que se encontrarían alineados con sus intereses y misión de ser, remando coordinadamente en el río.
 
-Fruto de una excesiva descentralización, surgieron organizaciones que supervisan la dirección de los proyectos alrededor del concepto de blockchain.
+Fruto de los problemas de una excesiva descentralización, aparecieron los primeros atisbos de organizaciones que se encargan de supervisar la dirección de los proyectos alrededor del concepto de blockchain.
 
 Buscando ejemplos podemos mirar a Ethereum Foundation, Ripple y Solana Foundation.
 
-Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fecha, y ya tengan masutilidad real que la red Beta Tester.
+Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fecha, y ya tengan mas utilidad real que la red Beta Tester.
 
 <br><br/>
 
