@@ -58,15 +58,15 @@ Se trata de un análisis sobre como se ha transicionado desde la filosófica pri
 
 <br><br/>
 
-Aquellos años 80, una de las épocas mas gloriosas para los consumidores tecnológicos.
+Aquellos años 80, una de las épocas mas gloriosas para los enamorados de la tecnología.
 
-Llegan los CompactDiscs, los ordenadores personales (Personal Computers), los primeros teléfonos móviles, las cámaras grabadoras de video, el walkman, las primeras pantallas LCD, videoconsolas, sin olvidarnos del notorio inicio de la conectividad global gracias a la implementación del protocolo TCP/IP, que permitía comunicaciones entre distintas redes de dispositivos.
+Llegan los CompactDiscs, los ordenadores personales (Personal Computers), los primeros teléfonos móviles, las cámaras grabadoras de video, el walkman, las primeras pantallas LCD, videoconsolas... Sin olvidarnos del notorio inicio de la conectividad global, gracias a la implementación del protocolo TCP/IP, que permitía comunicaciones entre distintas redes de dispositivos.
 
 Toda una explosión de funcionalidades equipadas en aquellos nuevos aparatos, que aunque fuesen vendidos en muchos casos a precios casi prohibitivos para el ciudadano medio, fueron de una relevancia altísima, y la base para el desarrollo de todos los que utilizamos hoy en día.
 
-Algunos dispositivos fracasaron, pero otros muchos fueron utilizados en masa por la gente de aquellos tiempos, permitiéndoles vislumbrar el futuro, gracias a aquella tecnología, mientras disfrutaban de funcionalidades que hasta aquel momento solo se podían fantasear.
+Algunos dispositivos fracasaron, pero otros muchos fueron utilizados en masa por las gentes de aquellos no tan lejanos tiempos, permitiéndoles vislumbrar el futuro, gracias a aquella tecnología, mientras disfrutaban de funcionalidades que hasta aquel momento solo se podían fantasear.
 
-Fueron los pioneros y los BetaTesters de algo más grande que se desarrollaría gracias a la experiencia e interacción de los consumidores con las grandes empresas tecnológicas.
+Fueron los pioneros y los Beta Testers de algo más grande, que se desarrollaría gracias a la experiencia e interacción de los consumidores con las grandes empresas tecnológicas.
 <br><br/>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
