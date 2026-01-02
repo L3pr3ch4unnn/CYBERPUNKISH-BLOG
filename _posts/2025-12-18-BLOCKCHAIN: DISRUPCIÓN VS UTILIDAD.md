@@ -495,11 +495,11 @@ En este forzado cambio, cabría la posibilidad de incluir modificaciones de las 
 	
 	Su existencia por el momento (al no existir CBDC con un blockchain propio) no es autónoma.
 	
-Todo esto se materializa en la peor pesadilla de los cypherpunks. 
+	Todo esto se materializa en la peor pesadilla de los cypherpunks. 
+		
+	Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. 
 	
-Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. 
-
-Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto.
+	Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto.
 
 <br><br/>
 
