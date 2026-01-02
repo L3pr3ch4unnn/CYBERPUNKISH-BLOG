@@ -486,17 +486,20 @@ La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas, u
 	
 	Estarían respaldadas por el propio Banco Central.
 	
-	Una gran diferencia con su versión física es que el consumidor final experimentaría una inevitable transición. En este forzado cambio, cabría la posibilidad de incluir modificaciones de las características del dinero como se conoce hasta ese momento, al ser este programable.
+	Una gran diferencia con su versión física es que el consumidor final experimentaría una inevitable transición.
+En este forzado cambio, cabría la posibilidad de incluir modificaciones de las características del dinero como se conoce hasta ese momento, al ser este programable.
 	
-	Si el Banco Central lo decidiese, en teoría se podrían aplicar distópicas reglas como límites de gasto, restricciones a donde se puede o no utilizar el dinero, límites de retiradas en efectivo al gusto del Banco Central y cualquier otra imposición que estas entidades responsables de su desarrollo consideren necesarias.
+	Si el Banco Central lo decidiese, en teoría, se podrían aplicar distópicas reglas como límites de gasto, restricciones a donde se puede o no utilizar el dinero, límites de retiradas en efectivo al gusto del Banco Central y cualquier otra imposición que estas entidades responsables de su desarrollo consideren necesarias.
 	
-	Cabe destacar que la implementación técnica de las CBDC requiere su acople a un blockchain que permita la realización de transacciones con esta moneda.
+	Cabe destacar que la implementación técnica de las CBDC requiere su acople a un blockchain que permita la realización de transacciones con dicha moneda.
 	
 	Su existencia por el momento (al no existir CBDC con un blockchain propio) no es autónoma.
 	
-	Todo esto se materializa en la peor pesadilla de los cypherpunks XD. 
+Todo esto se materializa en la peor pesadilla de los cypherpunks. 
 	
-	Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto de Bitcoin.
+Ellos buscaban la soberanía de los individuos, pero la CBDC utiliza la tecnología blockchain para conseguir todo lo contrario. 
+
+Una brutal transmutación de los objetivos iniciales de la Prueba de Concepto.
 
 <br><br/>
 
@@ -529,30 +532,42 @@ La digitalización de las monedas Fiat tiene dos vertientes muy diferenciadas, u
 <br><br/>
 Cabe remarcar que los Bancos Centrales son responsables de la política y oferta monetaria de las monedas que gestionan.
 
-Por lo tanto, para los más liberales, surgen dilemas éticos sobre como una entidad de naturaleza intervencionista y reguladora como el BCE, pudiese utilizar la tecnología como extensión de sus pretensiones.
+Por lo tanto, para los más liberales, surgen dilemas éticos sobre como una entidad de naturaleza intervencionista y reguladora como el BCE, pudiese utilizar la tecnología como extensión de sus pretensiones, que parecen ser objetivamente controladoras y cercenadoras de la libertad.
 
-Las Stablecoins, al menos, no están controladas por entidades Públicas. Las CBDC son una extensión del Gobierno de turno.
+Las Stablecoins, al menos, no están controladas por entidades Públicas. Las CBDC son una extensión de la estructura de Gobierno de turno.
 
-Si se impusiese una CBDC alineada con Gobiernos y Bancos Centrales, debido a su naturaleza, al mismo tiempo dejaría de ser aceptable para los defensores de la soberanía personal y de los más liberales, e incluso de algunos principios del derecho.
+Si se impusiese una CBDC alineada con los intereses de Gobiernos y Bancos Centrales, debido a su naturaleza, dejaría de ser aceptable para los defensores de la soberanía personal y de los más liberales, e incluso de algunos principios del derecho.
 
 El sueño húmedo de los autócratas...
 
-Pero no toda esperanza está perdida aún...
+Pero no toda esperanza está perdida...
 
 Aqui es cuando llega el mercado, para poner en orden las cosas, jugando un papel clave a favor de las Stablecoins y en detrimento de las CBDC.
 
-Por un lado las Stablecoins están en auge, siendo uno de los mercados con mas proyección en los próximos años y que permite mover un gran volumen de dinero diariamente. 
-
-Generan nuevos modelos de negocio, oportunidades para pequeños y grandes actores, democratizando el movimiento de dinero con precios irrisorios de transacción en comparación al sistema bancario tradicional, transacciones casi intstantaneas, y posibilidad de libre adopción.
+Por un lado tenemos a las Stablecoins en auge, siendo uno de los mercados con mas proyección en los próximos años y que permite mover un gran volumen de dinero diariamente. 
+Generan nuevos modelos de negocio, oportunidades para pequeños y grandes actores, democratizando el movimiento de dinero con irrisorios costes de transacción en comparación al sistema bancario tradicional, transferencias casi intstantaneas, y posibilidad de libre adopción.
 
 Por otro lado las CBDC generan un rechazo social razonable, ya que tienen una filosofía que añade una capa de control en favor del emisor de la moneda y en detrimento de la libertad del ciudadano.
 
-Su adopción esta siendo casi nula por el momento. Quizás la razón es que no tengan sentido desde un punto de vista ético y lógico.
+Su adopción esta siendo casi nula por el momento. 
+Quizás la razón es que no tengan sentido, desde un punto de vista ético y lógico. 
 
-El consumidor final tiene la libertad de elegir entre las todas las opciones disponibles en el mercado sin ningún tipo de coerción, para así utilizar las que sean mas eficientes, seguras o afines a sus necesidades.
+En un libre mercado, y en un mundo no distópico, el consumidor tiene la libertad de elegir entre todas las opciones disponibles, para así comprar o utilizar las que sean mas eficientes para el o afines a sus necesidades.
 
-Dia tras día recibimos noticias de como se están otorgando licencias bancarias y de participación en el mercado a las empresas detrás de las Stablecoins, que ya mueven una cantidad ingente de dinero como Tehter Circle o Ripple.
+<br><br/>
+
+Día tras día recibimos noticias de como se están otorgando licencias bancarias y de participación en el mercado a las empresas que están detrás de las Stablecoins, que ya mueven una cantidad ingente de dinero como Tehter Circle o Ripple.
 
 A 12 de Diciembre de 2025, la OCC ha dictaminado que empresas como Coinbase, Ripple, Fidelity Digital Assets, BitGo y Paxos han recibido el visto bueno de las entidades reguladoras para convertirse en Bancos de activos digitales.
+
+Parece que es solo el principio. 
+
+El mercado dirá. 
+
+En las personas quedará el exigir a las entidades reguladoras y gobernantes, el uso de tecnologías que estén a su altura moral e intelectual.
+
+Esperemos que el BrainRotting no influya demasiado en esta silenciosa batalla, y que se le otorgue la importancia que merece.
+
+:)
 
 <br><br/>
