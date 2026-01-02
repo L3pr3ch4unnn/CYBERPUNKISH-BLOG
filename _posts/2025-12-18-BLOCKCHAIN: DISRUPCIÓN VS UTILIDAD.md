@@ -29,7 +29,7 @@ INDICE <br><br/>
 
  3. Tendencias a futuro 
 
-	Estandar ISO 20022: Evolución de otros ya existentes
+    ISO 20022: Evolución de otros ya existentes
 	
 	¿Sobre que trata ISO 20022?
 
@@ -370,7 +370,7 @@ El sistema SWIFT tiene importantes carencias, que quizás utilizando las nuevas 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-   ESTANDAR ISO 20022, EVOLUCIÓN NATURAL
+   ISO 20022, EVOLUCIÓN NATURAL
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 <br><br/>
