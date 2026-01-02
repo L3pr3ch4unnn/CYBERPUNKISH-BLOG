@@ -206,9 +206,9 @@ USD M2 Supply
 
 Para que sea posible detectar posibilidades de mejora en los sistemas, es de menester ser crítico y evitar sesgos al juzgar la tecnología, independientemente de si nos gusta o no.
 
-Craso error, sería también, el considerar algo como Perfecto o inmutable, cuando vivimos en un mundo que cambia tan rápidamente.
+Craso error, sería también, el considerar algo como perfecto o inmutable, cuando vivimos en un mundo que cambia tan rápidamente.
 
-En la práctica, según ha ido cumpliendo años, el rendimiento de la red de BTC ha sido eclipsado por tecnologías que la consideraron en su momento como un Beta Tester Coin, y decidieron mejorar la tecnología presentada en su POC.
+En la práctica, según ha ido cumpliendo años, el rendimiento de la red de BTC ha sido eclipsado por tecnologías que la consideraron en su momento como un Beta Tester Coin, y decidieron mejorar las bondades presentada en su POC.
 
 <br><br/>
 
@@ -221,29 +221,31 @@ En la práctica, según ha ido cumpliendo años, el rendimiento de la red de BTC
 
 El coste de transacción de Blockchains como Solana y XRP Ledger es de 0.02$ y 0.0002$ respectivamente, por lo que son mucho más eficientes que la red de BTC.
 
-Los costes de transacción si bien son relativamente bajos, son demasiado altos para realizar microtransacciones o transacciones de valor reducido, ya que el coste de la transacción supera al valor del dinero envíado si este es inferior a los 2 dolares.
+Los costes de transacción si bien son relativamente bajos, son demasiado altos para realizar microtransacciones o transacciones de valor reducido, ya que el coste de la transmisión supera al valor del dinero envíado, si este es inferior a los 2 USD.
 
 Mientras esto puede ser aceptable al mover cantidades de dinero grandes, no tiene cabida en los micropagos, que es el principal uso que harían los ciudadanos de a pie, el pagar diariamente para comprar bienes básicos, como cuando uno va al supermercado.
 
 
-La cantidad de Transacciones Por Segundo que BTC puede gestionar es de alrededor de 7, mientras su competencia puede llegar a las 1500/2500 TPS.
+La cantidad de Transacciones Por Segundo que la red de BTC puede gestionar es de alrededor de 7, mientras su competencia puede llegar a las 1500/2500 TPS.
 
 
-Aquella fantasia de ser dinero electrónico eficiente se ve distante, ya que la velocidad y escalabilidad de la red deja mucho que desear para poder ser utilizada masivamenteen el día a día.
+Aquella fantasia de ser dinero electrónico eficiente se ve distante, principalmente porque la velocidad y escalabilidad de la red deja mucho que desear para poder ser utilizada masivamente en el día a día.
 
-Algo que si se mantiene inmutable y ha sido de gran valor, es la existencia de una red alternativa que permite realizar intercambios de valor entre particulares sin requerir la utilización del sistem bancario tradicional, que incurre en burocracia y costes excesivos en comparación.
+Algo que si se mantiene inmutable, es la existencia de una red alternativa que permite realizar intercambios de valor entre particulares, sin requerir la utilización de la infraestructura bancaria tradicional, que en coparación, por su diseño, incurre en burocracia innecesaria y costes excesivos.
 
-Sin embargo, sus limitaciones de diseño y rendimiento dificultan en gran medida la posibilidad de llegar a la meta planteada incialmente.
+Sin embargo, sus limitaciones de diseño y rendimiento dificultaron en gran medida la posibilidad de llegar a la meta planteada incialmente.
 
-La dialéctica imperante entre los defensores mas acérrimos para justificar la finalidad original de BTC ha cambiado a que es una buena reserva de valor. 
+Cambió entonces la dialéctica imperante entre los defensores mas acérrimos, para así poder justificar que la finalidad original de BTC ha cambiado a que es una buena reserva de valor.
 
-Después de aceptar que estas limitaciones no pueden ser obviadas.
+Después de aceptar que estas limitaciones no pueden ser obviadas, solo se mantiene que es una red no afectada por la censura institucional/gubernamental.
 
 Según la dificultad del minado aumenta, también son mayores las necesidades de Hardware, y por tanto la barrera de entrada para participar como minero en la red de BTC es mas alta.
 
-Se ha transicionado desde un momento en el que los mineros eran mayoritariamente actores particulares, hasta el momento actual, en el que la minería se concentra en extensivas granjas, que son propiedad de empresas que invierten en hardware, creando gigantescas granjas de minado. De manifiesta importantcia la gigantesca barrera de entrada que existe.
-
 Se comenzó minando con CPUs que eran accesibles al público, y la especialización dió como resultado nuevo hardware como los ASIC (Circuitos Integrados de Aplicación Específica).
+
+Se ha transicionado desde un momento en el que los mineros eran mayoritariamente actores particulares, hasta el momento actual, en el que la minería se concentra en extensivas granjas, que son propiedad de empresas que invierten en hardware, creando gigantescas granjas de minado. 
+De manifiesta importantcia la nueva muralla china que se hagenerado con esta barrera de entrada al sector.
+
 
 <br><br/>
 
