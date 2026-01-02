@@ -305,33 +305,41 @@ Quizás no sea casual que hayan tenido un desarrollo mas eficiente hasta la fech
 ![speculator](https://github.com/user-attachments/assets/e01c03fb-0b19-4361-98e3-cad4ebaff955)
 <br><br/>
 
-Casi ya 15 años atrás, recuerdo estar sentado en un autobús municipal, leyendo el White Paper de Bitcoin, camino de las clases de la universidad.
+Casi ya 15 años atrás, recuerdo estar sentado en un autobús municipal, leyendo el White Paper de Bitcoin, camino de las clases de Empresa y Economía en la universidad.
 
 En aquel momento estudiaba Administración y Dirección de empresas, antes de retornar a mi campo predilecto, ya que siempre hae sido un apasionado de los sistemas, hacking, programación... 
+
 Para mí, todo esto encajaba en el puzzle, pero parecía demasiado bueno para ser verdad...
 
-En aquel estrecho y duro asiento del autobús municipal, estaba planteandome la incomoda pregunta; 
+Sobre aquel estrecho y duro asiento del autobús municipal, estaba planteandome la incómoda pregunta; 
 
-¿Es posble que algún día blockchain pueda llegar a ser tan grande que interese a los grandes jugadores?
+   ¿Es posible que algún día blockchain pueda llegar a ser tan grande que interese a los grandes jugadores?
 
 Ahora ya en 2025, los inversores institucionales han hecho su entrada y se han posicionado en los activos digitales. 
 
-Ya no es negociable si esta tecnología es el futuro de muchos sectores como el Sistema Financiero y de Contabilidad Distribuida, nunca mas será una mera especulación o proyección.
+No es negociable si esta tecnología es el futuro de muchos sectores, como el Sistema Financiero y de Contabilidad Distribuida. 
+Nunca mas será una mera especulación o proyección.
 
-Las preguntas más relevantes que actualmente recorren mi cabeza son: 
+Hoy las preguntas que recorren mi cabeza son las siguientes: 
 
 - ¿Cual es la motivación de la entrada de los Inversores Institucionales?
 
 - ¿Han entrado debido el rendimiendo del activo en comparación a las monedas Fiat y otros activos financieros buscando un rédito económico? 
 
-- ¿Buscan realmente utilizar la red del Token o moneda que compran, o simplemente su objetivo es realizar transacciones en blockchain por su eficiencia, fiabilidad y utilidad final?
+- ¿Buscan realmente utilizar la red del Token o moneda que compran?
+
+- ¿Es un objetivo realizar transacciones en los blockchains por su eficiencia, fiabilidad y utilidad final?
 
 
 Después del planteamiento de estas preguntas, la única certeza palpable es que el mercado y la competencia acabarán decidiendo que blockchains y tecnologías sobrevivirán en el medio y largo plazo.
 
 Necesario es, al valorar una inversión, llevar a cabo un análisis fundamental del valor del activo, en este caso como tecnología, y compararlo con otras redes que existan y puedan rivalizar.
 
-Posteriormente a la revaloración que han experimentado estos activos en los últimos años, cabe determinar que, si bien, ha habido una gran revalorización en el precio de BTC, la capitalización de mercado, teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar con la utilidad.
+Posteriormente a la revaloración que han experimentado estos activos en los últimos años, cabe determinar que ha habido una gran revalorización en el precio de BTC y su capitalización de mercado. 
+
+Teniendo en cuenta que existen blockchains con capacidades superiores, bajo mi humilde punto de vista, no acaba de encajar la evolución de precio con la utilidad aportada.
+
+Tampoco podría negar que es una imporatante red resistente a la censura.
 
 <br><br/>
 <br><br/>
